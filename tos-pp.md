@@ -157,25 +157,9 @@ As with any agreement, our lawyers said there are additional provisions necessar
 
 **Waiver.** The failure of Sandstorm to exercise or enforce any right or provision of the Terms will not constitute a waiver of such right or provision. Any waiver of any provision of the Terms will be effective only if in writing and signed by Sandstorm.
 
-**Agreement to Arbitrate and Class Action Waiver.**
-
-THIS SECTION ONLY APPLIES TO USERS IN THE US AND CANADA. 
-
-Before bringing a formal legal case, please first try contacting us or try to find a resolution on one of our forums. Most disputes can be resolved that way. 
-
-**We Both Agree to Arbitrate.** If we can’t resolve our dispute, you and Sandstorm agree to resolve any claims relating to the Terms through final and binding arbitration. This applies to all kinds of claims under any legal theory. 
-
-Either of us can bring a claim in small claims court either in San Francisco, California, or the county where you live, or some other place we both agree on, if it qualifies to be brought in that court. 
-
-In addition, if you or Sandstorm brings a claim in court that should be arbitrated or any of us refuses to arbitrate a claim that should be arbitrated, the other of us can ask a court to force us to go to arbitration to resolve the claim (i.e., compel arbitration). You or Sandstorm may also ask a court to halt a court proceeding while an arbitration proceeding is ongoing. 
-
-**No Class Actions.** We all agree that we can only bring a claim against each other on an individual basis. That means: (a) neither you nor Sandstorm can bring a claim as a plaintiff or class member in a class action, consolidated action or representative action; (b) an arbitrator cannot combine more than one person’s claim into a single case, and cannot preside over any consolidated, class or representative arbitration proceeding (unless we both agree to change this); (c) an arbitrator’s decision or award in one person’s case can only impact the person who brought the claim, not other Sandstorm users, and cannot be used to decide other disputes with other users. If a court decides that this subsection on "No Class Actions" is not enforceable or valid, then the entire Section 32 (Agreement to Arbitrate and Class Action Waiver) will be null and void, but, the rest of the Terms of Service will still apply. 
-
-**The Arbitration Process.** Any disputes between you and Sandstorm relating to the Website or the Services that involve a claim of less than US$10,000 must be resolved exclusively through binding non-appearance-based arbitration. A party electing arbitration shall initiate proceedings by filing an arbitration demand with the American Arbitration Association (AAA). The arbitration proceedings shall be governed by the AAA Commercial Arbitration Rules, Consumer Due Process Protocol, and Supplementary Procedures for Resolution of Consumer-Related Disputes. In addition, you and Sandstorm agree that the following rules shall apply to the arbitration proceedings: (a) the arbitration shall be conducted, at the option of the party seeking relief, by telephone, online, or based solely on written submissions; (b) the arbitration shall not involve any personal appearance by the parties or witnesses unless otherwise mutually agreed by the parties; and (c) any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction. Any disputes between you and Sandstorm relating to the Website or the Services that involve a claim of less than US$10,000 must be resolved in accordance with the AAA’s rules about whether the arbitration hearing has to be in-person. 
-
 **Governing Law.** The Terms are governed by and construed in accordance with the laws of the State of California, United States of America, without regards to its principles of conflicts of law that would require the application of the laws of another jurisdiction, and shall be considered to have been made and accepted in the State of California.
 
-**Jurisdiction for Legal Disputes Not Subject to Arbitration.** If the Agreement to Arbitrate is determined to be invalid or unenforceable or for any disputes that do not qualify for arbitration, the dispute shall be subject to the exclusive jurisdiction of the Federal and State courts located in San Francisco, California. You hereby consent and submit to the personal and exclusive jurisdiction of such courts for the purposes of litigating any such action.
+**Jurisdiction for Legal Disputes.** Legal disputes shall be subject to the exclusive jurisdiction of the Federal and State courts located in San Francisco, California. You hereby consent and submit to the personal and exclusive jurisdiction of such courts for the purposes of litigating any such action.
 
 **Severability.** If any provision of the Terms of Service is found to be unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from the Terms of Service and shall not affect the validity and enforceability of any remaining provisions.
 
