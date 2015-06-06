@@ -6,21 +6,25 @@ Sandstorm the company (Sandstorm Development Group, Inc.) also offers a managed 
 
 When you install an app on Sandstorm, you may use it to create multiple instances of the app, known as "grains". The meaning of a "grain" depends on the app. For instance, if you use a document editor app to create several documents, each document may be a separate grain. Grains are isolated from each other and inaccessible to other users unless and until you specify otherwise through the Sandstorm user interface. For example, you can "share" a document grain to other users in order to collaborate on the document, or you can make it public for the whole world to read, but until you do one of these things, the document is accessible only to you.
 
-You must be at least 18 years old to access Sandstorm or to use the Sandstorm services or platform, regardless of the age requirements of any app you choose to run on Sandstorm. 
+You must be at least 18 years old to access Sandstorm or to use the Sandstorm services or platform, regardless of the age requirements of any app you choose to run on Sandstorm. (This restriction may be lifted in the future, once Sandstorm complies with applicable regulations.)
 
 ## Terms of Service
 
-What you may do with the services:
+### What you may do with the services:
+
 As long as you keep your documents private, you can do anything you want with them (within the bounds of applicable law). Employees of Sandstorm (the company) will not look at your private data unless required by law (and we will push back against unreasonable law enforcement requests as we deem appropriate).
 
-What you may not do with the services:
-Please do not use our service to engage in any illegal activity.  Do not use the service to harass anyone.  And do not use the service for commercial pornography, but you may use the service for non-commercial pornography, e.g. an erotic personal blog. 
+### What you may not do with the services:
+
+* You may not use the service for activities that are illegal under United States law.
+* You may not use the service to facilitate online harassment campaigns, regardless of legality. "Online harassment" means activity meant to threaten, bully, or otherwise maliciously make life difficult for an individual person or class of people, especially (but not limited to) women and minorities.
+* You may not use the service to host commercial pornography. However, you may host personal erotic content as long as it legal and not for profit.
 
 ### Technical usage:
 
 You may only access the service—and grains not owned by yourself—in ways that are intended to be allowed via the interface and APIs. If you identify a bug in the service or in any app or grain, you may not exploit it for any reason including but not limited to producing unintended consequences harmful to the service or the app or grain owner. Such activity may result in the suspension of your account, and may also be illegal under cybercrime law and may be prosecuted by either Sandstorm or by the grain owner. 
 
-You may, however, test a bug to see if it exists as long as no other users are meaningfully affected and the bug is immediately responsibly disclosed to the relevant software maintainers. For bugs in any software maintained by Sandstorm (the company), email security@sandstorm.io. It is fully within Sandstorm’s discretion to determine whether your conduct with respect to bugs is harmful or not and Sandstorm may take any action it deems necessary to prevent harmful consequences to the service of any app. 
+You may, however, test a bug to see if it exists as long as no other users are meaningfully affected and the bug is immediately responsibly disclosed to the relevant software maintainers. For bugs in any software maintained by Sandstorm (the company), email security@sandstorm.io. It is fully within Sandstorm’s discretion to determine whether your conduct with respect to bugs is harmful or not and Sandstorm may take any action it deems necessary to prevent harmful consequences to the service.
 
 ### Sharing and reporting:
 
@@ -30,13 +34,7 @@ Any person who has access to a grain may report the grain for violations of the 
 
 ### How Sandstorm will handle complaints:
 
-When a shared grain has been reported to us, we will investigate it for compliance with the following rules:
-
-* You may not use the service for activities that are illegal under United States law.
-* You may not use the service to facilitate online harassment campaigns, regardless of legality. "Online harassment" means activity meant to threaten, bully, or otherwise maliciously make life difficult for an individual person or class of people, especially (but not limited to) women and minorities.
-* You may not use the service to host commercial pornography. However, you may host personal erotic content as long as it legal and not for profit.
-
-In all cases, Sandstorm (the company) will judge whether the grain violates the policy. If it is found to be in violation, the following actions may be taken:
+When a shared grain has been reported to us, we will investigate it for compliance with the rules enumerated in these terms. In all cases, Sandstorm (the company) will judge whether the grain violates the policy. If it is found to be in violation, the following actions may be taken:
 
 * Your grain may be "unshared", meaning no one except you will be able to access it, and it will not be able to connect to any external service or resources.
 * In the case of repeat offenders or egregious violations, all of your grains may be unshared, and you may be prohibited from sharing grains or otherwise connecting grains to external resources in the future.
@@ -52,7 +50,7 @@ If you are responding to a complaint of infringement, you will need to follow ou
 
 #### A. Trademark Claims
 
-If you (the "Complaining Party") would like to submit a trademark claim for violation of a mark on which you hold a valid, registered trademark or service mark (registered with the United States Patent and Trademark Office on the Principal Register or, for foreign marks, registered with the appropriate intellectual property organization of your country; state registrations and registrations on the Supplemental Register are not considered valid for these purposes), Sandstorm requests that the Complaining Party substantiate such claim by providing the following information via email to trademark@sandstorm.io.  The words "Trademark Claim" should appear in the subject line.
+If you (the "Complaining Party") would like to submit a trademark claim for violation of a mark on which you hold a valid, registered trademark or service mark (registered with the United States Patent and Trademark Office on the Principal Register or, for foreign marks, registered with the appropriate intellectual property organization of your country; state registrations and registrations on the Supplemental Register are not considered valid for these purposes), Sandstorm requests that the Complaining Party substantiate such claim by providing the following information via email to [trademark@sandstorm.io](mailto:trademark@sandstorm.io).  The words "Trademark Claim" should appear in the subject line.
 
 To be considered effective, a notification of a claimed trademark violation must include the following information:
 
@@ -110,7 +108,7 @@ Upon receipt of a Counter Notification as described in Section 1 above, Sandstor
 
 It is Sandstorm's policy to provide for the termination, in appropriate circumstances, of Sandstorm customers and account holders who repeatedly violate this policy or are repeat infringers of copyrighted works, trademarks or any other intellectual property.
 
-### Membership [or Signing Up] and Fees 
+### Subscription and Fees
 
 When you sign up for the Sandstorm service or run the platform on your own servers, you will be asked to enter into an agreement with us that outlines your obligations and ours.  That agreement will guide our relationship and will address the fees assessed for the services you choose to use. 
 
@@ -120,8 +118,8 @@ We use Stripe for all payments using or engaging the service.  None of your paym
 
 You may cancel your service at any time, but cancellation will not take effect until the current pay period completes. Cancel your service via the user interface or by emailing support@sandstorm.io.  Once you cancel your services, the following will apply:
 
-* Your account will no longer be charged starting the first of the month after the month in which you cancel. 
-* When you cancel your account, all of your [data / apps ] [will be / will not be ] [stored / deleted]
+* Your account will not be charged again.
+* Once the current pay period ends, all of your data will be deleted.
 
 ### Problems and Contact:
 
@@ -173,88 +171,86 @@ As with any agreement, our lawyers said there are additional provisions necessar
 
 Sandstorm (the company, the service, and the platform) does not employ any automated "data-mining" algorithms that look at the content of your grains. We do not serve advertising and do not build an advertising profile about you. We do not sell or give away any personal data to any third party.
 
-In general, you have a high degree of control over how your data is shared via the sharing UI. If you never share any of your content with other users, and never use your identity to authenticate to other users' content, then there is little to opt out of and there is little collected and stored by Sandstorm.
+In general, you have a high degree of control over how your data is shared via the sharing UI. You, as a user, decide with whom your data and personal details are shared through the Sandstorm interface.
 
 ### Data gathered in the aggregate:
 
 Sandstorm gathers aggregated data counts, such as "the number of people who logged in yesterday" or "the number of documents created using Etherpad". These counts aggregate data from many users and are not personally identifiable. We try not to gather statistics that may be personally identifiable; for example, if an application is installed by only one user, we will not gather statistics about it.
 
-### Data gathered through you:
+### Data gathered from you:
 
-Sandstorm intends only to gather your personal data in ways that are clear and obvious from the user interface. If you believe that your personal data is being used in a way that you did not expect or authorize, email privacy@sandstorm.io to report the problem.
+Sandstorm intends only to gather your personal data in ways that are clear and obvious from the user interface. If you believe that your personal data is being used in a way that you did not expect or authorize, email [privacy@sandstorm.io](mailto:privacy@sandstorm.io) to report the problem.
 
 Sandstorm gathers a few pieces of personal "profile information" for the purpose of identifying you to other people on the service. These include:
 
 * Your name.
 * Your email address.
 * Your profile picture or avatar.
+* Your unique user ID corresponding to the login service(s) you used to authenticate (for example, your Github username, if you log in using Github).
 * Other personal information which you add to your profile.
-* Your IP address is collected here, though you do not provide it to us, we collect it automatically.
 
 All of this data is voluntary; you can edit (or remove) the information through your account settings. 
 
-When you use Sandstorm to share data with other people, or when you access data shared with you by other Sandstorm users, your profile information may be revealed to the other users with whom you are connecting, so that they can identify you. 
+When you use Sandstorm to share data with other people, or when you access data shared with you by other Sandstorm users, your profile information may be revealed to the other users with whom you are connecting, so that they can identify you.
 
-### Data gathered through third parties:
+### Data gathered through applications:
 
-#### Applications:
+Individual Sandstorm apps may gather arbitrary personal data about you. Sandstorm does not control the behavior of these apps. To understand how the application uses your data, please consult the app's own documentation, privacy policy, and terms of use.
 
-Individual Sandstorm apps may gather arbitrary personal data about you. Sandstorm does not control the behavior of these apps. Please always check the privacy policy and terms of use of any app you install on Sandstorm or that you use. 
-
-Sandstorm allows you to control how an app is shared with other users. It is our intent that an application cannot communicate with any other party unless you explicitly permit it to do so via the Sandstorm user interface, and the Sandstorm platform is designed to enforce this at a technical level. However, it is possible that a defect in the software will allow an application to bypass this policy. Any such defects should be immediately reported to security@sandstorm.io. 
+Sandstorm allows you to control how an app is shared with other users. It is our intent that an application cannot communicate with any other party unless you explicitly permit it to do so via the Sandstorm user interface, and the Sandstorm platform is designed to enforce this at a technical level. However, it is possible that a defect in the software will allow an application to bypass this policy. Any such defects should be immediately reported to [security@sandstorm.io](mailto:security@sandstorm.io).
 
 If you permit it, a Sandstorm app may connect to third parties and transmit arbitrary data to and from that third party. Once you have given an app permission to talk to a third party, Sandstorm cannot make any guarantees about what data it sends to or receives from that party. You must consult the privacy policy and terms of use of that app to find out how it functions, what data it takes, and what it does with that data.  Sandstorm does not control any of these functions.  If you have a complaint about the handling of your data by an app, that complaint must be taken to the app provider, not Sandstorm. Sandstorm is not responsible for the conduct of the apps.
 
 If you connect to a grain owned by another user (for example, a document shared with you), any information you communicate to that grain becomes controlled by the user who owns the grain. Sandstorm cannot control what that user does with the data and is not responsible for what the user does with that data, even where you believe such use violates Sandstorm’s policies. The user may offer their own privacy policy governing the data, but Sandstorm's privacy policy does not apply.
 
-#### Payment provider:
+### Data gathered through third parties:
 
-Sandstorm collects payments through Stripe. Your payment information, such as your credit card number and billing address, is stored only by Stripe, not by Sandstorm.  P lease see Stripe’s privacy policy and terms of use here.
+**Payment provider:** Sandstorm collects payments through Stripe. Your payment information, such as your credit card number and billing address, is stored only by Stripe, not by Sandstorm.  Please see Stripe’s privacy policy and terms of use here.
 
-#### Third-party log in:
-
-If you sign in through a third-party login service like Google or Github, we collect your basic profile information from it (typically full name, email address, profile picture).
-[Is there an opportunity to delete or modify this information later?]
+**Third-party log in:** If you sign in through a third-party login service like Google or Github, we collect information from it in order to populate your profile information, as described above. This information may be edited or removed through your account settings.
 
 ### Data gathered automatically:
 
-Sandstorm collects logs for the purpose of system health monitoring, debugging, and security. Logs may record events like "User 'kenton' logged in from IP address 192.168.1.10," "App Etherpad version 1.5.6 was successfully installed," or "Error: Database claims Etherpad is installed but I can't find the files on disk!" These logs are only examined in the event that they are needed to resolve a problem (a software bug, a service outage, or a security breach), and can only be accessed by Sandstorm employees or internal fully-automated systems tasked with detecting and resolving these problems. Content of a grain (i.e. your data) is never stored to these logs.
-[where is this data stored?]
+**Logs:** Sandstorm collects logs for the purpose of system health monitoring, debugging, and security. Logs may record events like "User 'kenton' logged in from IP address 192.168.1.10," "App Etherpad version 1.5.6 was successfully installed," or "Error: Database claims Etherpad is installed but I can't find the files on disk!" These logs are only examined in the event that they are needed to resolve a problem (a software bug, a service outage, or a security breach), and can only be accessed by Sandstorm employees or internal fully-automated systems tasked with detecting and resolving these problems. Content of a grain (i.e. your data) is never stored to these logs. These logs are stored on Sandstorm's servers.
 
-#### IP address
+**IP Address:** We may store your IP address as part of our logs. We may share your IP address to facilitate connections between yourself and other users, such as setting up a real-time video conference. We do not otherwise share your IP address with third parties.
 
-We use cookies for authentication purposes.  Can be used for tracking and other things, like here, to make sure you are the user that has access to the data.  We use cookies and local storage for authentication and security purposes but not to track users.
+**Cookies and local storage:** We use cookies and browser local storage for authentication and security purposes. We do not track users across third-party sites, with cookies or otherwise.
 
-#### Data Storage:
+### Data Storage Location:
 
 All data we collect is stored on our servers in the United States.
- 
+
 ### What we do with the information we gather:
 
 We use any information we gather to improve the services we offer.
 
 We do not sell or give away any personal data to any third party.  If we merge with another company or are acquired by another company, we will share all of the data we have gathered with that company.
 
-We also may share your data with authorities or other third parties to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service [live link], or as otherwise required by law. Any such action will be consistent with the policies and guidelines included in our Terms of Service.
+We also may share your data with authorities or other third parties to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](TODO: terms-of-service), or as otherwise required by law. Any such action will be consistent with the policies and guidelines included in our Terms of Service.
 
 ### How We Respond to Do Not Track Signals:
 
-Because people are often unaware that their do-not-track beacons are active, do-not-track does not frequently reflect the actual preferences of our users.  Accordingly, we do not respond to the federal Do-Not-Track signal.
+The [W3C "Do Not Track" standard](http://www.w3.org/TR/tracking-dnt/) defines "tracking" as follows:
+
+> **_Tracking_** is the collection of data regarding a particular user's activity across multiple distinct contexts and the retention, use, or sharing of data derived from that activity outside the context in which it occurred. A **_context_** is a set of resources that are controlled by the same party or jointly controlled by a set of parties.
+
+Sandstorm, as a company, does not engage in "tracking", in that we do not track users across multiple unrelated contexts or web sites without the user's explicit consent. This applies regardless of the presence of "Do Not Track" signals.
 
 ### EU Safe Harbor:
+
 When you choose to provide Sandstorm with your information or any information that is automatically gathered through your use of Sandstorm, you consent to the transfer and storage of that information on our servers located in the United States.
 
-Sandstorm adheres to the US-EU and US-Swiss Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program [provide link to the program and Sandstorm listing] 
+Sandstorm adheres to the US-EU and US-Swiss Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program [TODO: provide link to the program and Sandstorm listing] 
 
-For European Union and Swiss residents [is this applicable?], any questions or concerns regarding the use or disclosure of your information should be directed to Sandstorm by sending an email to [privacy@sandstorm.io]. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with our Privacy Policy. For complaints that cannot be resolved, and consistent with the Safe Harbor Enforcement Principle, we have committed to cooperate with data protection authorities located within Switzerland or the European Union (or their authorized representatives).
+For European Union and Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to Sandstorm by sending an email to [privacy@sandstorm.io](mailto:privaty@sandstorm.io). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with our Privacy Policy. For complaints that cannot be resolved, and consistent with the Safe Harbor Enforcement Principle, we have committed to cooperate with data protection authorities located within Switzerland or the European Union (or their authorized representatives).
 
 ### Correcting and deleting your data:
 
-Most things can be edited through the Sandstorm interface, but if not, email support@sandstorm.io.
+Most things can be edited through the Sandstorm interface, but if not, email [support@sandstorm.io](mailto:support@sandstorm.io).
 
 Sandstorm will not edit content owned by other users (which is most of the content on the platform).
 
 ### Cancellation:
 
-If you cancel your service, all of your data (including grains) will be deleted. However, if you merely stop paying for your service, your data may not be deleted, but rather stored in long-term storage until you either resume payments or cancel. You may cancel your service through the user interface or you can contact us at support@sandstorm.io.
-
+If you cancel your service, all of your data (including grains) will be deleted. However, if you merely stop paying for your service without requesting cancellation, then Sandstorm may, as a courtesy, continue to store your data so that you may access it again once you resume payments. Either you or Sandstorm may choose to end this courtesy storage at any time. You may cancel your service through the user interface or you can contact us at [support@sandstorm.io](mailto:support@sandstorm.io).
