@@ -60,13 +60,15 @@ If you connect to a grain owned by another user (for example, a document shared 
 
 ### Data Storage Location:
 
-All data we collect is stored on our servers in the United States.
+All data we collect is stored in the United States, encrypted, on servers at our infrastructure service provider, Google Cloud Services. Google Cloud Services' [Terms of Service](https://cloud.google.com/terms/), section 5, states that Google will use data stored through the service only to deliver the service; data will not be used in conjunction with Google's other products, including advertising products.
 
 ### What we do with the information we gather:
 
 We use any information we gather to improve the services we offer.
 
-We do not sell or give away any personal data to any third party.  If we merge with another company or are acquired by another company, we will share all of the data we have gathered with that company.
+We do not sell any personal data to any third party. We do not share personal data with any third party, except as necessary to implement the service. For instance, if you choose to log in through Github, then we share data with Github, but only as necessary to implement login. If you believe we are sharing more data than necessary, please email [privacy@sandstorm.io](mailto:privacy@sandstorm.io) to report the problem so we may fix it.
+
+If we merge with another company or are acquired by another company, we will share all of the data we have gathered with that company. In this event, Sandstorm will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 We also may share your data with authorities or other third parties to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](TODO: terms-of-service), or as otherwise required by law. Any such action will be consistent with the policies and guidelines included in our Terms of Service.
 
