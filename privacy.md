@@ -60,7 +60,7 @@ If you connect to a grain owned by another user (for example, a document shared 
 
 ### Data Storage Location:
 
-All data we collect is stored in the United States, encrypted, on servers at our infrastructure service provider, Google Cloud Services. Google Cloud Services' [Terms of Service](https://cloud.google.com/terms/), section 5, states that Google will use data stored through the service only to deliver the service; data will not be used in conjunction with Google's other products, including advertising products.
+All data we collect is stored in the United States on servers at our infrastructure service provider, Google Cloud Services, which stores this data encrypted at rest. Google Cloud Services' [Terms of Service](https://cloud.google.com/terms/), section 5, states that Google will use data stored through the service only to deliver the service; data will not be used in conjunction with Google's other products, including advertising products.
 
 ### What we do with the information we gather:
 
