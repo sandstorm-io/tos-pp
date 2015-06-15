@@ -18,7 +18,8 @@ As long as you keep your documents private, you can do anything you want with th
 
 * You may not use the service for activities that are illegal under United States law.
 * You may not use the service to facilitate online harassment campaigns, regardless of legality. "Online harassment" means activity meant to threaten, bully, or otherwise maliciously make life difficult for an individual person or class of people, especially (but not limited to) women and minorities.
-* You may not use the service to host commercial pornography. However, you may host personal erotic content as long as it legal and not for profit.
+* You may not use the service to host commercial pornography services. However, you may host personal erotic content as long as it legal and not for profit.
+* You may not use the service to communicate with other services in a way that violates those other services' terms of use.
 
 ### Technical usage:
 
@@ -41,6 +42,7 @@ When a shared grain has been reported to us, we will investigate it for complian
 * If required by law -- but not otherwise -- your content will be permanently deleted. For example, we are required to delete child pornography.
 * If required by law -- but not otherwise -- we will notify law enforcement. For example, we are required to report child pornography.
 * In the case of harassment involving theats of physical violence, we may reveal your identity to the harassed parties, law enforcement, and your mother.
+* In the case where you use the service to interact with another service in a way that violates that other service's terms of use, we may, at our discression, reveal your identity to the other service's owner.
 
 ### Copyright and Trademark Issues
 
