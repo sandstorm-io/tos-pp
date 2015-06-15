@@ -112,7 +112,7 @@ It is Sandstorm's policy to provide for the termination, in appropriate circumst
 
 When you sign up for the Sandstorm service or run the platform on your own servers, you will be asked to enter into an agreement with us that outlines your obligations and ours.  That agreement will guide our relationship and will address the fees assessed for the services you choose to use. 
 
-We use Stripe for all payments using or engaging the service.  None of your payment information will be held or stored by Sandstorm. Stripe holds all payment credentials (e.g. credit card numbers, name, and billing address) and this information is handled in accordance with Stripe’s privacy policy and terms of use located here.
+We use Stripe for all payments using or engaging the service.  None of your payment information will be held or stored by Sandstorm. Stripe holds all payment credentials (e.g. credit card numbers, name, and billing address) and this information is handled in accordance with Stripe’s [privacy policy](https://stripe.com/us/privacy) and [terms of service](https://stripe.com/us/terms).
 
 ### Cancellation:
 

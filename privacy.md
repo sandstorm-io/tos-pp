@@ -46,7 +46,7 @@ If you connect to a grain owned by another user (for example, a document shared 
 
 ### Data gathered through third parties:
 
-**Payment provider:** Sandstorm collects payments through Stripe. Your payment information, such as your credit card number and billing address, is stored only by Stripe, not by Sandstorm.  Please see Stripe’s privacy policy and terms of use here.
+**Payment provider:** Sandstorm collects payments through Stripe. Your payment information, such as your credit card number and billing address, is stored only by Stripe, not by Sandstorm.  Please see Stripe’s [privacy policy](https://stripe.com/us/privacy) and [terms of service](https://stripe.com/us/terms).
 
 **Third-party log in:** If you sign in through a third-party login service like Google or Github, we collect information from it in order to populate your profile information, as described above. This information may be edited or removed through your account settings.
 
