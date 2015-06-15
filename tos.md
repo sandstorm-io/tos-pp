@@ -40,7 +40,7 @@ When a shared grain has been reported to us, we will investigate it for complian
 * In the case of repeat offenders or egregious violations, all of your grains may be unshared, and you may be prohibited from sharing grains or otherwise connecting grains to external resources in the future.
 * If required by law -- but not otherwise -- your content will be permanently deleted. For example, we are required to delete child pornography.
 * If required by law -- but not otherwise -- we will notify law enforcement. For example, we are required to report child pornography.
-* In the case of harassment, if in our judgment the case warrants it (such as if you make explicit death threats towards an individual), we may reveal your identity to anyone who might be interested, such as to the harassed parties or to your mother.
+* In the case of harassment involving theats of physical violence, we may reveal your identity to the harassed parties, law enforcement, and your mother.
 
 ### Copyright and Trademark Issues
 
