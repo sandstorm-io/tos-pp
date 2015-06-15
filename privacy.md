@@ -6,8 +6,6 @@ Sandstorm the company (Sandstorm Development Group, Inc.) also offers a managed 
 
 When you install an app on Sandstorm, you may use it to create multiple instances of the app, known as "grains". The meaning of a "grain" depends on the app. For instance, if you use a document editor app to create several documents, each document may be a separate grain. Grains are isolated from each other and inaccessible to other users unless and until you specify otherwise through the Sandstorm user interface. For example, you can "share" a document grain to other users in order to collaborate on the document, or you can make it public for the whole world to read, but until you do one of these things, the document is accessible only to you.
 
-You must be at least 18 years old to access Sandstorm or to use the Sandstorm services or platform, regardless of the age requirements of any app you choose to run on Sandstorm. (This restriction may be lifted in the future, once Sandstorm complies with applicable regulations.)
-
 ## Privacy Policy 
 
 Sandstorm (the company, the service, and the platform) does not employ any automated "data-mining" algorithms that look at the content of your grains. We do not serve advertising and do not build an advertising profile about you. We do not sell or give away any personal data to any third party.
