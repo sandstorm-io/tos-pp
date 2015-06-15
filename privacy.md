@@ -30,7 +30,7 @@ Sandstorm gathers a few pieces of personal "profile information" for the purpose
 * Your unique user ID corresponding to the login service(s) you used to authenticate (for example, your Github username, if you log in using Github).
 * Other personal information which you add to your profile.
 
-All of this data is voluntary; you can edit (or remove) the information through your account settings. 
+All of this data is voluntary; you can edit (or remove) the information through your account settings. **[Beta note: The ability to edit profile information may not be implemented yet, but we will add it before the beta ends. In the meantime, you may contact [support@sandsotrm.io](mailto:support@sandstorm.io) if you would like any information changed or removed.**
 
 When you use Sandstorm to share data with other people, or when you access data shared with you by other Sandstorm users, your profile information may be revealed to the other users with whom you are connecting, so that they can identify you.
 
