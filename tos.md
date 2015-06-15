@@ -42,7 +42,7 @@ When a shared grain has been reported to us, we will investigate it for complian
 * If required by law -- but not otherwise -- your content will be permanently deleted. For example, we are required to delete child pornography.
 * If required by law -- but not otherwise -- we will notify law enforcement. For example, we are required to report child pornography.
 * In the case of harassment involving theats of physical violence, we may reveal your identity to the harassed parties, law enforcement, and your mother.
-* In the case where you use the service to interact with another service in a way that violates that other service's terms of use, we may, at our discression, reveal your identity to the other service's owner.
+* In the case where you use the service to interact with another service in a way that violates that other service's terms of use, we may, at our discretion, reveal your identity to the other service's owner.
 
 ### Copyright and Trademark Issues
 
