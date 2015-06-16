@@ -60,6 +60,29 @@ If you carry out a harmful attack, you immediately forfeit all rights to privacy
 
 You may, however, privately test for the existence of security bugs as long as any users whose grains or data are affected consent to the test, no harm is done (in our judgment) to the service or any other user, and the bug is immediately responsibly disclosed to the maintaners of the software in which it appears. For bugs in any software maintained by Sandstorm (the company), email [security@sandstorm.io](mailto:security@sandstorm.io). We believe in celebrating "white hat" security research: If you responsibly disclose to us an important security bug in our software, we will fix the bug within 90 days if possible (usually, much faster), and then we will publicly credit you on our blog.
 
+### Subscription and Fees
+
+When you sign up for the Sandstorm service or run the platform on your own servers, you will be asked to enter into an agreement with us that outlines your obligations and ours.  That agreement will guide our relationship and will address the fees assessed for the services you choose to use. 
+
+We use Stripe for all payments using or engaging the service.  None of your payment information will be held or stored by Sandstorm. Stripe holds all payment credentials (e.g. credit card numbers, name, and billing address) and this information is handled in accordance with Stripe’s [privacy policy](https://stripe.com/us/privacy) and [terms of service](https://stripe.com/us/terms).
+
+### Cancellation:
+
+You may cancel your service at any time, but cancellation will not take effect until the current pay period completes. Cancel your service via the user interface or by emailing [support@sandstorm.io](mailto:support@sandstorm.io).  Once you cancel your services, the following will apply:
+
+* Your account will not be charged again.
+* Once the current pay period ends, all of your data will be deleted.
+
+### Problems and Contact:
+
+All problems should be reported by emailing [support@sandstorm.io](mailto:support@sandstorm.io), except for security problems, which should be reported to [security@sandstorm.io](mailto:security@sandstorm.io).
+
+You also may contact us by snail mail at:
+
+    Sandstorm Development Group, Inc.
+    475 Fernando Ave
+    Palo Alto, CA 94306
+
 ### Copyright and Trademark Issues
 
 To notify Sandstorm that there has been a copyright or trademark violation, please follow the specific instructions in (A) for filing a trademark claim, or (B) filing a copyright complaint, below.
@@ -125,29 +148,6 @@ Upon receipt of a Counter Notification as described in Section 1 above, Sandstor
 #### D. Repeat Infringers
 
 It is Sandstorm's policy to provide for the termination, in appropriate circumstances, of Sandstorm customers and account holders who repeatedly violate this policy or are repeat infringers of copyrighted works, trademarks or any other intellectual property.
-
-### Subscription and Fees
-
-When you sign up for the Sandstorm service or run the platform on your own servers, you will be asked to enter into an agreement with us that outlines your obligations and ours.  That agreement will guide our relationship and will address the fees assessed for the services you choose to use. 
-
-We use Stripe for all payments using or engaging the service.  None of your payment information will be held or stored by Sandstorm. Stripe holds all payment credentials (e.g. credit card numbers, name, and billing address) and this information is handled in accordance with Stripe’s [privacy policy](https://stripe.com/us/privacy) and [terms of service](https://stripe.com/us/terms).
-
-### Cancellation:
-
-You may cancel your service at any time, but cancellation will not take effect until the current pay period completes. Cancel your service via the user interface or by emailing support@sandstorm.io.  Once you cancel your services, the following will apply:
-
-* Your account will not be charged again.
-* Once the current pay period ends, all of your data will be deleted.
-
-### Problems and Contact:
-
-All problems should be reported by emailing [support@sandstorm.io](mailto:support@sandstorm.io), except for security problems, which should be reported to security@sandstorm.io.
-
-You also may contact us by snail mail at:
-
-    Sandstorm Development Group, Inc.
-    475 Fernando Ave
-    Palo Alto, CA 94306
 
 ### Miscellaneous:
 
