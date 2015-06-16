@@ -116,7 +116,7 @@ If Sandstorm concludes that the Complaining Party has raised a legitimate tradem
 
 #### B. Copyright Claims
 
-If the Complaining Party would like to submit a copyright claim for material on which you hold a bona fide copyright, Sandstorm requests that the Complaining Party substantiate such claim by providing Sandstorm with the following information via email to copyright@sandstorm.io. The words "Copyright Claim" should appear in the subject line. A copyright claim can also be submitted by mail to: 
+If the Complaining Party would like to submit a copyright claim for material on which you hold a bona fide copyright, Sandstorm requests that the Complaining Party substantiate such claim by providing Sandstorm with the following information via email to [copyright@sandstorm.io](mailto:copyright@sandstorm.io). The words "Copyright Claim" should appear in the subject line. A copyright claim can also be submitted by mail to: 
 
     Copyright Agent
     Sandstorm Development Group, Inc.
