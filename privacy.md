@@ -60,7 +60,9 @@ If you connect to a grain owned by another user (for example, a document shared 
 
 **IP Address:** We may store your IP address as part of our logs. We may share your IP address to facilitate connections between yourself and other users, such as setting up a real-time video conference. We do not otherwise share your IP address with third parties.
 
-**Cookies and local storage:** We use cookies and browser local storage for authentication and security purposes. We do not track users across third-party sites, with cookies or otherwise.
+**Cookies and local storage:** We use cookies and browser local storage for authentication and security purposes.
+
+We also use cookies to gather aggregate anonymous analytics about how users use our web site at [sandstorm.io](https://sandstorm.io), such as to answer questions like "How many of our visitors have visited before?" or "Are users who read about our security model more likely to sign up?" However, this data is never tied to actual identites or user accounts, nor otherwise used to build per-user profiles. Moreover, we do not track users on any third-party site.
 
 ### Data Storage Location:
 
