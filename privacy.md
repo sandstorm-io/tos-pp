@@ -68,7 +68,7 @@ We do not sell any personal data to any third party. We do not share personal da
 
 If we merge with another company or are acquired by another company, we will share all of the data we have gathered with that company. In this event, Sandstorm will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-We also may share your data with authorities or other third parties to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](TODO: terms-of-service), or as otherwise required by law. Any such action will be consistent with the policies and guidelines included in our Terms of Service.
+We also may share your data with authorities or other third parties to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. Any such action will be consistent with the policies and guidelines included in our Terms of Service.
 
 ### How We Respond to Do Not Track Signals:
 
@@ -79,6 +79,8 @@ The [W3C "Do Not Track" standard](http://www.w3.org/TR/tracking-dnt/) defines "t
 Sandstorm, as a company, does not engage in "tracking", in that we do not track users across multiple unrelated contexts or web sites without the user's explicit consent. This applies regardless of the presence of "Do Not Track" signals.
 
 ### EU Safe Harbor:
+
+*[BETA NOTE: We are currently registering for the [US-EU and US-Swiss Safe Harbor programs](http://www.export.gov/safeharbor/index.asp). The following clause will take effect once that registration is complete.]*
 
 When you choose to provide Sandstorm with your information or any information that is automatically gathered through your use of Sandstorm, you consent to the transfer and storage of that information on our servers located in the United States.
 

@@ -105,10 +105,10 @@ To be considered effective, a notification of a claimed trademark violation must
 * Sufficient evidence that the owner of the website that is claimed to be infringing is a Sandstorm customer.
 * The precise location of the infringing mark, including electronic mail address, etc.
 * A good faith certification, signed under penalty of perjury, stating:
-* The content of the website [identify website] infringes the rights of another party,
-* The name of such said party,
-* The mark [identify mark] being infringed, and
-* That use of the content of the website claimed to be infringing at issue is not defensible.
+  * The content of the website [identify website] infringes the rights of another party,
+  * The name of such said party,
+  * The mark [identify mark] being infringed, and
+  * That use of the content of the website claimed to be infringing at issue is not defensible.
 
 Upon receipt of the appropriate information identified above, for trademark claims, Sandstorm will initiate an investigation and forward the Complaining Party’s written notification to the alleged infringer. While Sandstorm is investigating the claim, Sandstorm, at its sole discretion and without any legal obligation to do so, may temporarily remove the allegedly infringing material from its site or temporarily remove or deny access to the allegedly infringing material.
 
