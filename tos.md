@@ -23,28 +23,42 @@ As long as you keep your documents private, you can do anything you want with th
 
 * You must be at least 18 years old to use the service. (This restriction may be lifted in the future, once Sandstorm complies with applicable regulations.)
 
-### Technical usage:
+### Privacy of grain data
 
-You may only access the service—and grains not owned by yourself—in ways that are intended to be allowed via the interface and APIs. If you identify a bug in the service or in any app or grain, you may not exploit it for any reason including but not limited to producing unintended consequences harmful to the service or the app or grain owner. Such activity may result in the suspension of your account, and may also be illegal under cybercrime law and may be prosecuted by either Sandstorm or by the grain owner. 
+Sandstorm employees will not view the contents of your grains, nor use that content for any purpose other than delivering the services, except under the following circumstances:
 
-You may, however, test a bug to see if it exists as long as no other users are meaningfully affected and the bug is immediately responsibly disclosed to the relevant software maintainers. For bugs in any software maintained by Sandstorm (the company), email security@sandstorm.io. It is fully within Sandstorm’s discretion to determine whether your conduct with respect to bugs is harmful or not and Sandstorm may take any action it deems necessary to prevent harmful consequences to the service.
+* You share it with us.
+* Someone who already has permission to interact with your grain (for example, because you shared it with them) chooses to share their access with us, perhaps as part of a complaint, as described in the next section.
+* We detect that you are engaging in a technical attack, as described below.
+* We are required to do so by law.
 
-### Sharing and reporting:
+Except in one of the above circumstances, Sandstorm employees will not view your data even if we suspect it may violate our terms.
 
-If you choose to share a grain with other users (whether specific people, or publicly / to everyone), then certain rules come into play. First, any person with whom you share a grain has the right to re-share their access to other people. The Sandstorm user interface may offer you options for restricting this re-sharing, but these are voluntary on the part of the recipient; any user who can see your content can always copy/paste the content or take a screenshot.
+### Interacting with other users and services:
 
-Any person who has access to a grain may report the grain for violations of the policies enumerated below. When a user makes such a report, the complaining user is exercising their right to re-share your data to Sandstorm (the company). Once this has happened, Sandstorm may view your data in order to investigate the complaint. On the other hand, if none of the people to whom you share your data ever decides to share it with Sandstorm employees, then Sandstorm employees will not view the grain's data (unless required by law), regardless of the possibility of policy violations.  To be clear, this section does not apply to violations of the technical usage guidelines set forth above relating to the exploitation of bugs found in the service or any app or grain.  If the harmful exploitation of a bug is identified, Sandstorm may take whatever action it deems necessary to address the situation including but not limited to accessing your data to stop the exploitation and identify the source. 
+If you choose to share a grain with other users (whether specific people, or publicly / to everyone), or otherwise communicate with other users or services through a grain, then you are implicitly giving those people permission to "reshare" their interaction with your grain to us. For example:
 
-### How Sandstorm will handle complaints:
+* If you grant another user access to a grain, they may give us permission to view the grain on their behalf in order to investigate a complaint.
+* If you use the grain to access another service (including other grains), that service's owners may give us permission to monitor your grain's communications with that service.
 
-When a shared grain has been reported to us, we will investigate it for compliance with the rules enumerated in these terms. In all cases, Sandstorm (the company) will judge whether the grain violates the policy. If it is found to be in violation, the following actions may be taken:
+Such complaints can be made by emailing [support@sandstorm.io](mailto:support@sandstorm.io).
 
-* Your grain may be "unshared", meaning no one except you will be able to access it, and it will not be able to connect to any external service or resources.
-* In the case of repeat offenders or egregious violations, all of your grains may be unshared, and you may be prohibited from sharing grains or otherwise connecting grains to external resources in the future.
-* If required by law -- but not otherwise -- your content will be permanently deleted. For example, we are required to delete child pornography.
-* If required by law -- but not otherwise -- we will notify law enforcement. For example, we are required to report child pornography.
-* In the case of harassment involving theats of physical violence, we may reveal your identity to the harassed parties, law enforcement, and your mother.
+If in our judgment the complaint is valid and you have violated these terms, we may respond in the following ways:
+
+* We may "unshare" your grain, meaning no one except you will be able to access it, and it will not be able to connect to any external service or resources.
+* If you are a repeat offender, or if in our judgment your actions warrant it, we may unshare all of your grains, and we may prohibit you from sharing grains or otherwise connecting grains to external resources in the future.
 * In the case where you use the service to interact with another service in a way that violates that other service's terms of use, we may, at our discretion, reveal your identity to the other service's owner.
+* If required by law -- but not otherwise -- we will report activity to law enforcement.
+* If required by law -- but not otherwise -- we will delete your data.
+* In the case of harassment involving theats of physical violence, we may reveal your identity to the harassed parties, law enforcement, and your mother.
+
+### Technical Attacks
+
+You may not engage in technical attacks (often -- but incorrectly -- called "hacking") on the service itself or on other users' grains. A technical attack is any action which uses technical means to harm the service, its users, or third parties in a way that was not intended (in our opinion) to be authorized. This includes (but is not limited to) unauthorized changes to others' data, breaches of confidentiality, denial of service, phishing, resource exhaustion, and anything else that the computer security community generally classifies as an attack. This also includes attacks carried out against third-party services facilitated by grains running on our service, even if our service and users are not harmed.
+
+If you carry out a harmful attack, you immediately forfeit all rights to privacy and other protections laid out in these terms. We will take any action we deem necessary to prevent harmful consequences to the service or other users, including investigating the contents of your grains, sharing what we find with the security community, and possibly deleting your data and/or closing your account.
+
+You may, however, privately test for the existence of security bugs as long as any users whose grains or data are affected consent to the test, no harm is done (in our judgment) to the service or any other user, and the bug is immediately responsibly disclosed to the maintaners of the software in which it appears. For bugs in any software maintained by Sandstorm (the company), email [security@sandstorm.io](mailto:security@sandstorm.io). We believe in celebrating "white hat" security research: If you responsibly disclose to us an important security bug in our software, we will fix the bug within 90 days if possible (usually, much faster), and then we will publicly credit you on our blog.
 
 ### Copyright and Trademark Issues
 
