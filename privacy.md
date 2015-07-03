@@ -88,13 +88,11 @@ Sandstorm, as a company, does not engage in "tracking", in that we do not track 
 
 ### EU Safe Harbor:
 
-*[BETA NOTE: We are currently registering for the [US-EU and US-Swiss Safe Harbor programs](http://www.export.gov/safeharbor/index.asp). The following clause will take effect once that registration is complete.]*
+Sandstorm complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Sandstorm has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.  To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
 
-When you choose to provide Sandstorm with your information or any information that is automatically gathered through your use of Sandstorm, you consent to the transfer and storage of that information on our servers located in the United States.
+For European Union and Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to Sandstorm by sending an email to [privacy@sandstorm.io](mailto:privacy@sandstorm.io). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with our Privacy Policy.
 
-Sandstorm adheres to the US-EU and US-Swiss Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program [TODO: provide link to the program and Sandstorm listing] 
-
-For European Union and Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to Sandstorm by sending an email to [privacy@sandstorm.io](mailto:privacy@sandstorm.io). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with our Privacy Policy. For complaints that cannot be resolved, and consistent with the Safe Harbor Enforcement Principle, we have committed to cooperate with data protection authorities located within Switzerland or the European Union (or their authorized representatives).
+Sandstorm has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ### Correcting and deleting your data:
 
