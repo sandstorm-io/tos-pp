@@ -85,6 +85,10 @@ You may cancel your service at any time, but cancellation will not take effect u
 * Your account will not be charged again.
 * Once the current pay period ends, all of your data will be deleted.
 
+### Data deletion
+
+We optimize our systems to prevent unintentional data loss. As a result, data which is _intentionally_ deleted will remain present in our backup systems for up to 60 days.
+
 ### Problems and Contact
 
 All problems should be reported by emailing [support@sandstorm.io](mailto:support@sandstorm.io), except for security problems, which should be reported to [security@sandstorm.io](mailto:security@sandstorm.io).
