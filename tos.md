@@ -1,25 +1,25 @@
-## Terms of Service
+# Terms of Service
 
 The following terms apply to your use of the Sandstorm Oasis hosting service ("the service"), as offered by Sandstorm Development Group, Inc. ("we"/"us").
 
 These terms do NOT apply to users running the Sandstorm open source software on their own servers; see [the Sandstorm license](https://github.com/sandstorm-io/sandstorm/blob/master/LICENSE). These terms also do NOT apply to any other services run by us.
 
-### What you may do with the services
+## What you may do with the services
 
 As long as you keep your documents private, you can do anything you want with them (within the bounds of applicable law). Employees of Sandstorm will not look at your private data unless required by law (and we will push back against unreasonable law enforcement requests as we deem appropriate).
 
-### What you may not do with the services
+## What you may not do with the services
 
 * You may not use the service for activities that are illegal under United States law.
 * You may not use the service to facilitate online harassment campaigns, regardless of legality. "Online harassment" means activity meant to threaten, bully, or otherwise maliciously make life difficult for an individual person or class of people, especially (but not limited to) women and minorities.
 * You may not use the service to host commercial pornography services. However, you may host personal erotic content as long as it legal and not for profit.
 * You may not use the service to communicate with other services in a way that violates those other services' terms of use.
 
-### Who may use the services
+## Who may use the services
 
 * You must be at least 18 years old to use the service. (This restriction may be lifted in the future, once the service complies with applicable regulations.)
 
-### Privacy of grain data
+## Privacy of grain data
 
 Sandstorm employees will not view the contents of your grains, nor use that content for any purpose other than delivering the services, except under the following circumstances:
 
@@ -30,7 +30,7 @@ Sandstorm employees will not view the contents of your grains, nor use that cont
 
 Except in one of the above circumstances, Sandstorm employees will not view your data even if we suspect it may violate our terms.
 
-### Interacting with other users and services
+## Interacting with other users and services
 
 If you choose to share a grain with other users (whether specific people, or publicly / to everyone), or otherwise communicate with other users or services through a grain, then you are implicitly giving those people permission to "reshare" their interaction with your grain to us. For example:
 
@@ -48,7 +48,7 @@ If in our judgment the complaint is valid and you have violated these terms, we 
 * If required by law -- but not otherwise -- we will delete your data.
 * In the case of harassment involving theats of physical violence, we may reveal your identity to the harassed parties, law enforcement, and your mother.
 
-### Technical Attacks
+## Technical Attacks
 
 You may not engage in technical attacks (often -- but incorrectly -- called "hacking") on the service itself or on other users' grains. A technical attack is any action which uses technical means to harm the service, its users, or third parties in a way that was not intended (in our opinion) to be authorized. This includes (but is not limited to) unauthorized changes to others' data, breaches of confidentiality, denial of service, phishing, resource exhaustion, and anything else that the computer security community generally classifies as an attack. This also includes attacks carried out against third-party services facilitated by grains running on our service, even if our service and users are not harmed.
 
@@ -56,32 +56,32 @@ If you carry out a harmful attack, you immediately forfeit all rights to privacy
 
 You may, however, privately test for the existence of security bugs as long as any users whose grains or data are affected consent to the test, no harm is done (in our judgment) to the service or any other user, and the bug is immediately responsibly disclosed to the maintaners of the software in which it appears. For bugs in any software maintained by Sandstorm (the company), email [security@sandstorm.io](mailto:security@sandstorm.io). We believe in celebrating "white hat" security research: If you responsibly disclose to us an important security bug in our software, we will fix the bug within 90 days if possible (usually, much faster), and then we will publicly credit you on our blog.
 
-### Law Enforcement Actions
+## Law Enforcement Actions
 
 We will only reveal your data to law enforcement when we believe we are legally required to do so, such as by a court order. If this occurs, we will notify you, unless we are legally prohibited from doing so.
 
-### Content Ownership
+## Content Ownership
 
 We claim no intellectual property rights over the material you provide to the service. Your profile and grain contents remain yours. However, when you share your grains through the sharing UI or other mechanisms, you agree to allow others to access your grains accordingly.
 
-### Subscription and Fees
+## Subscription and Fees
 
 When you sign up for the service, you will be asked to enter into an agreement with us that outlines your obligations and ours.  That agreement will guide our relationship and will address the fees assessed for the services you choose to use. 
 
 We use Stripe for all payments using or engaging the service.  None of your payment information will be held or stored by Sandstorm. Stripe holds all payment credentials (e.g. credit card numbers, name, and billing address) and this information is handled in accordance with Stripe's [privacy policy](https://stripe.com/us/privacy) and [terms of service](https://stripe.com/us/terms).
 
-### Cancellation
+## Cancellation
 
 You may cancel your service at any time, but cancellation will not take effect until the current pay period completes. Cancel your service via the user interface or by emailing [support@sandstorm.io](mailto:support@sandstorm.io).  Once you cancel your services, the following will apply:
 
 * Your account will not be charged again.
 * Once the current pay period ends, all of your data will be deleted.
 
-### Data deletion
+## Data deletion
 
 We optimize our systems to prevent unintentional data loss. As a result, data which is _intentionally_ deleted will remain present in our backup systems for up to 60 days.
 
-### Problems and Contact
+## Problems and Contact
 
 All problems should be reported by emailing [support@sandstorm.io](mailto:support@sandstorm.io), except for security problems, which should be reported to [security@sandstorm.io](mailto:security@sandstorm.io).
 
@@ -91,13 +91,13 @@ You also may contact us by snail mail at:
     475 Fernando Ave
     Palo Alto, CA 94306
 
-### Copyright and Trademark Issues
+## Copyright and Trademark Issues
 
 To notify Sandstorm that there has been a copyright or trademark violation, please follow the specific instructions in (A) for filing a trademark claim, or (B) filing a copyright complaint, below.
 
 If you are responding to a complaint of infringement, you will need to follow our Counter Notification policy in (C), below.
 
-#### A. Trademark Claims
+### A. Trademark Claims
 
 If you (the "Complaining Party") would like to submit a trademark claim for violation of a mark on which you hold a valid, registered trademark or service mark (registered with the United States Patent and Trademark Office on the Principal Register or, for foreign marks, registered with the appropriate intellectual property organization of your country; state registrations and registrations on the Supplemental Register are not considered valid for these purposes), Sandstorm requests that the Complaining Party substantiate such claim by providing the following information via email to [trademark@sandstorm.io](mailto:trademark@sandstorm.io).  The words "Trademark Claim" should appear in the subject line.
 
@@ -122,7 +122,7 @@ Upon receipt of the appropriate information identified above, for trademark clai
 
 If Sandstorm concludes that the Complaining Party has raised a legitimate trademark claim, it may, at its sole discretion and without any legal obligation to do so, permanently remove the challenged material from the site, continue to suspend the alleged infringer's Sandstorm account and/or if it is solely stored on a Sandstorm server, deny access to the allegedly infringing material. If Sandstorm concludes that the Complaining Party has not raised a legitimate claim, Sandstorm will restore access to the allegedly infringing material (or not take any action at all, as the case may be).
 
-#### B. Copyright Claims
+### B. Copyright Claims
 
 If the Complaining Party would like to submit a copyright claim for material on which you hold a bona fide copyright, Sandstorm requests that the Complaining Party substantiate such claim by providing Sandstorm with the following information via email to [copyright@sandstorm.io](mailto:copyright@sandstorm.io). The words "Copyright Claim" should appear in the subject line. A copyright claim can also be submitted by mail to: 
 
@@ -142,7 +142,7 @@ To be considered effective, a notification of a claimed copyright infringement m
 
 For Copyright Claims, upon receipt of appropriate and complete notification from the Complaining Party, Sandstorm will forward the Complaining Party's written notification to the alleged infringer and, if it is solely stored on a Sandstorm server, temporarily remove or deny access to the allegedly infringing material.
 
-#### C. Counter Notification Policy
+### C. Counter Notification Policy
 
 Counter Notification. If you have received a notice of copyright or trademark infringement that you wish to challenge based on a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled, you may provide Counter Notification by emailing or mailing us using the address from which you received notification of the takedown, and including the following:
 
@@ -153,11 +153,11 @@ Counter Notification. If you have received a notice of copyright or trademark in
 
 Upon receipt of a Counter Notification as described in Section 1 above, Sandstorm will promptly provide the Complaining Party with a copy of the Counter Notification, and inform such Party that it will replace the removed material or cease disabling access to it in ten (10) business days. Sandstorm will replace the removed material and cease disabling access to it in not less than ten (10), nor more than fourteen (14), business days following receipt of the Counter Notification, unless Sandstorm first receives notice from the Complaining Party that such Complaining Party has filed an action seeking a court order to restrain the alleged infringer from engaging in infringing activity relating to the material on Sandstorm's system or network.
 
-#### D. Repeat Infringers
+### D. Repeat Infringers
 
 It is Sandstorm's policy to provide for the termination, in appropriate circumstances, of Sandstorm customers and account holders who repeatedly violate this policy or are repeat infringers of copyrighted works, trademarks or any other intellectual property.
 
-### Miscellaneous
+## Miscellaneous
 
 As with any agreement, our lawyers said there are additional provisions necessary to explain our relationship.  Read these carefully.
 
