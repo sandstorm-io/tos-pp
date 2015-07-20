@@ -64,6 +64,10 @@ If you carry out a harmful attack, you immediately forfeit all rights to privacy
 
 You may, however, privately test for the existence of security bugs as long as any users whose grains or data are affected consent to the test, no harm is done (in our judgment) to the service or any other user, and the bug is immediately responsibly disclosed to the maintaners of the software in which it appears. For bugs in any software maintained by Sandstorm (the company), email [security@sandstorm.io](mailto:security@sandstorm.io). We believe in celebrating "white hat" security research: If you responsibly disclose to us an important security bug in our software, we will fix the bug within 90 days if possible (usually, much faster), and then we will publicly credit you on our blog.
 
+### Law Enforcement Actions
+
+We will only reveal your data to law enforcement when we believe we are legally required to do so, such as by a court order. If this occurs, we will notify you, unless we are legally prohibited from doing so.
+
 ### Content Ownership
 
 We claim no intellectual property rights over the material you provide to the service. Your profile and grain contents remain yours. However, when you share your grains through the sharing UI or other mechanisms, you agree to allow others to access your grains accordingly.
