@@ -1,0 +1,73 @@
+body {
+  font-family: sans-serif;
+  background-color: #eee;
+  padding: 0;
+  margin: 0;
+}
+
+section > * {
+  margin: 1em auto;
+  max-width: 640px;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 25pt;
+}
+
+h3 {
+  font-size: inherit;
+}
+
+#terms, #privacy {
+  position: absolute;
+  background-color: white;
+  margin: 64px 0 0;
+  border-top: 1px solid #888;
+  width: 100%;
+}
+
+#terms::before, #privacy::before {
+  display: block;
+  position: absolute;
+  top: -32px;
+  height: 15px;
+  border: 1px solid #888;
+  border-bottom: none;
+  background-color: white;
+  padding: 8px 0;
+  text-align: center;
+  width: 190px;
+}
+
+#terms::before {
+  content: "Terms of Service";
+  left: calc(50% - 320px);
+}
+
+#privacy::before {
+  content: "Privacy Policy";
+  left: calc(50% - 120px);
+}
+
+body.terms #terms, body.privacy #privacy {
+  z-index: 1;
+}
+
+body.privacy #terms > *, body.terms #privacy > * {
+  display: none;
+}
+
+@media screen and (max-width: 650px) {
+  section > * {
+    width: 100%;
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  #terms::before, #privacy::before {
+    width: calc(50% - 16px);
+  }
+  #terms::before { left: 8px; }
+  #privacy::before { right: 8px; left: auto; }
+}
+
