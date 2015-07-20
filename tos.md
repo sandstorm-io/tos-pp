@@ -12,18 +12,18 @@ The following terms apply to your use of the Sandstorm Oasis hosting service ("t
 
 These terms do NOT apply to users running the Sandstorm open source software on their own servers; see [the Sandstorm license](https://github.com/sandstorm-io/sandstorm/blob/master/LICENSE). These terms also do NOT apply to any other services run by us.
 
-### What you may do with the services:
+### What you may do with the services
 
 As long as you keep your documents private, you can do anything you want with them (within the bounds of applicable law). Employees of Sandstorm will not look at your private data unless required by law (and we will push back against unreasonable law enforcement requests as we deem appropriate).
 
-### What you may not do with the services:
+### What you may not do with the services
 
 * You may not use the service for activities that are illegal under United States law.
 * You may not use the service to facilitate online harassment campaigns, regardless of legality. "Online harassment" means activity meant to threaten, bully, or otherwise maliciously make life difficult for an individual person or class of people, especially (but not limited to) women and minorities.
 * You may not use the service to host commercial pornography services. However, you may host personal erotic content as long as it legal and not for profit.
 * You may not use the service to communicate with other services in a way that violates those other services' terms of use.
 
-### Who may use the services:
+### Who may use the services
 
 * You must be at least 18 years old to use the service. (This restriction may be lifted in the future, once the service complies with applicable regulations.)
 
@@ -38,7 +38,7 @@ Sandstorm employees will not view the contents of your grains, nor use that cont
 
 Except in one of the above circumstances, Sandstorm employees will not view your data even if we suspect it may violate our terms.
 
-### Interacting with other users and services:
+### Interacting with other users and services
 
 If you choose to share a grain with other users (whether specific people, or publicly / to everyone), or otherwise communicate with other users or services through a grain, then you are implicitly giving those people permission to "reshare" their interaction with your grain to us. For example:
 
@@ -74,14 +74,14 @@ When you sign up for the service, you will be asked to enter into an agreement w
 
 We use Stripe for all payments using or engaging the service.  None of your payment information will be held or stored by Sandstorm. Stripe holds all payment credentials (e.g. credit card numbers, name, and billing address) and this information is handled in accordance with Stripe's [privacy policy](https://stripe.com/us/privacy) and [terms of service](https://stripe.com/us/terms).
 
-### Cancellation:
+### Cancellation
 
 You may cancel your service at any time, but cancellation will not take effect until the current pay period completes. Cancel your service via the user interface or by emailing [support@sandstorm.io](mailto:support@sandstorm.io).  Once you cancel your services, the following will apply:
 
 * Your account will not be charged again.
 * Once the current pay period ends, all of your data will be deleted.
 
-### Problems and Contact:
+### Problems and Contact
 
 All problems should be reported by emailing [support@sandstorm.io](mailto:support@sandstorm.io), except for security problems, which should be reported to [security@sandstorm.io](mailto:security@sandstorm.io).
 
@@ -157,7 +157,7 @@ Upon receipt of a Counter Notification as described in Section 1 above, Sandstor
 
 It is Sandstorm's policy to provide for the termination, in appropriate circumstances, of Sandstorm customers and account holders who repeatedly violate this policy or are repeat infringers of copyrighted works, trademarks or any other intellectual property.
 
-### Miscellaneous:
+### Miscellaneous
 
 As with any agreement, our lawyers said there are additional provisions necessary to explain our relationship.  Read these carefully.
 
