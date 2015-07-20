@@ -1,0 +1,7 @@
+## Overview
+
+Sandstorm is a platform for server-oriented and web-based applications. Sandstorm the platform is open source; anyone can run Sandstorm on their own personal server hardware. When you run Sandstorm on your own hardware, you can do anything you want with it: Sandstorm the platform is licensed under the Apache 2.0 open source license which places no restrictions on usage.
+
+Sandstorm the company (Sandstorm Development Group, Inc.) also offers a managed hosting service called Sandstorm Oasis, which allows you to run Sandstorm (the platform) on our physical servers instead of your own. When you sign up for the service, you pay Sandstorm (the company) a monthly fee for access to a private server running a variant of Sandstorm (the platform). On this server you may install and run any application software (apps) you want, subject to a monthly resource allowance defined by your chosen subscription plan.
+
+When you install an app on Sandstorm, you may use it to create multiple instances of the app, known as "grains". The meaning of a "grain" depends on the app. For instance, if you use a document editor app to create several documents, each document may be a separate grain. Grains are isolated from each other and inaccessible to other users unless and until you specify otherwise through the Sandstorm user interface. For example, you can "share" a document grain to other users in order to collaborate on the document, or you can make it public for the whole world to read, but until you do one of these things, the document is accessible only to you.
