@@ -11,6 +11,12 @@ section > * {
   box-sizing: border-box;
 }
 
+section > blockquote {
+  padding: 0 32px;
+  background-color: #eee;
+  overflow: hidden;
+}
+
 h1 {
   font-size: 25pt;
 }
