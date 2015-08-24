@@ -70,6 +70,20 @@ When you sign up for the service, you will be asked to enter into an agreement w
 
 We use Stripe for all payments using or engaging the service.  None of your payment information will be held or stored by Sandstorm. Stripe holds all payment credentials (e.g. credit card numbers, name, and billing address) and this information is handled in accordance with Stripe's [privacy policy](https://stripe.com/us/privacy) and [terms of service](https://stripe.com/us/terms).
 
+Subscription fees may be increased subject to 30 days notice from us, sent to the email address on file with your account. Subscription fees may be reduced with no notice.
+
+As of August, 2015, the service is in beta testing. During the beta testing period, all subscription fees will be waived. However, we may declare at any time that the beta has ended and will then begin charging fees, with no 30-day notice.
+
+## Free Plan
+
+We offer a subscription plan which has no monthly fee. This plan is intended to allow users to try out the service before paying for it. Some features of the service are limited or unavailable when using the free plan.
+
+You are allowed to create only one free account. If you create multiple free accounts, we may delete any or all of your data in those accounts.
+
+If we observe that your free account is inactive, we may wish to delete it. We will give 30 days notice by email before deleting any free account for inactivity. To prevent your account from being deleted, you must log in at least once within those 30 days.
+
+We may discontinue the free plan at any time. If we do, existing free accounts will be given 30 days' notice to upgrade to a paid account. If you do not upgrade, your data will be deleted.
+
 ## Cancellation
 
 You may cancel your service at any time, but cancellation will not take effect until the current pay period completes. Cancel your service via the user interface or by emailing [support@sandstorm.io](mailto:support@sandstorm.io).  Once you cancel your services, the following will apply:
