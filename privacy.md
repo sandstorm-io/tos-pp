@@ -96,3 +96,7 @@ Sandstorm will not edit content owned by other users (which is most of the conte
 ## Cancellation
 
 If you cancel your service, all of your data (including grains) will be deleted (subject to "data deletion" in the Terms of Service). However, if you merely stop paying for your service without requesting cancellation, then Sandstorm may, as a courtesy, continue to store your data so that you may access it again once you resume payments. Either you or Sandstorm may choose to end this courtesy storage at any time. You may cancel your service through the user interface or you can contact us at [support@sandstorm.io](mailto:support@sandstorm.io).
+
+## Effective Date
+
+This policy is effective as of August 31, 2015.
