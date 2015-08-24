@@ -18,15 +18,16 @@ The service gathers aggregated data counts, such as "the number of people who lo
 
 The service intends only to gather your personal data in ways that are clear and obvious from the user interface. If you believe that your personal data is being used in a way that you did not expect or authorize, email [privacy@sandstorm.io](mailto:privacy@sandstorm.io) to report the problem.
 
-The service gathers a few pieces of personal "profile information" for the purpose of identifying you to other people on the service. These include:
+The service gathers email addresses from all users. You are required to provide a valid email address, as this is the primary mechanism by which we will notify you of issues regarding your account.
+
+The service also gathers a few pieces of personal "profile information" for the purpose of identifying you to other people on the service. These include:
 
 * Your name.
-* Your email address.
 * Your profile picture or avatar.
 * Your unique user ID corresponding to the login service(s) you used to authenticate (for example, your Github username, if you log in using Github).
 * Other personal information which you add to your profile.
 
-All of this data is voluntary; you can edit (or remove) the information through your account settings. **[Beta note: The ability to edit profile information may not be implemented yet, but we will add it before the beta ends. In the meantime, you may contact [support@sandsotrm.io](mailto:support@sandstorm.io) if you would like any information changed or removed.**
+All profile information is voluntary; you can edit (or remove) the information through your account settings.
 
 When you use the service to share data with other people, or when you access data shared with you by other users of the service, your profile information may be revealed to the other users with whom you are connecting, so that they can identify you.
 
