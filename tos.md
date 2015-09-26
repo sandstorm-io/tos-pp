@@ -12,7 +12,7 @@ As long as you keep your documents private, you can do anything you want with th
 
 * You may not use the service for activities that are illegal under United States law.
 * You may not use the service to facilitate online harassment campaigns, regardless of legality. "Online harassment" means activity meant to threaten, bully, or otherwise maliciously make life difficult for an individual person or class of people, especially (but not limited to) women and minorities.
-* You may not use the service to host commercial pornography services. However, you may host personal erotic content as long as it legal and not for profit.
+* You may not use the service to host commercial pornography services. However, you may host personal erotic content as long as it is legal and not for profit.
 * You may not use the service to communicate with other services in a way that violates those other services' terms of use.
 
 ## Who may use the services
