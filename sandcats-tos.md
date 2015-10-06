@@ -14,6 +14,7 @@ You may use the Sandcats service in conjunction with a server running an up-to-d
 
 * You may not use the service for activities that are illegal under United States law.
 * You may not use the service to facilitate online harassment campaigns, regardless of legality. "Online harassment" means activity meant to threaten, bully, or otherwise maliciously make life difficult for an individual person or class of people, especially (but not limited to) women and minorities.
+* You may not choose a hostname that is intended to deceive others about the server's content, such as for the purposes of spam, phishing, or otherwise.
 
 If we, in our sole discression, determine that you are using Sandcats in a way that violates these rules, we may cease responding to DNS queries for your Sandcats subdomain and may revoke any TLS certificates associated with it. If we take any of these actions, we will e-mail you at the address you provided upon registering your subdomain (unless we are prohibited by law from doing so).
 
