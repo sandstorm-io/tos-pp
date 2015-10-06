@@ -37,69 +37,13 @@ You also may contact us by snail mail at:
 
 ## Copyright and Trademark Issues
 
-To notify Sandstorm that there has been a copyright or trademark violation, please follow the specific instructions in (A) for filing a trademark claim, or (B) filing a copyright complaint, below.
+To notify Sandstorm of a copyright or trademark violation, please contact [copyright@sandstorm.io](mailto:copyright@sandstorm.io) or [trademark@sandstorm.io](mailto:trademark@sandstorm.io), respectively, or contact us by snail mail at:
 
-If you are responding to a complaint of infringement, you will need to follow our Counter Notification policy in (C\), below.
-
-### A. Trademark Claims
-
-If you (the "Complaining Party") would like to submit a trademark claim for violation of a mark on which you hold a valid, registered trademark or service mark (registered with the United States Patent and Trademark Office on the Principal Register or, for foreign marks, registered with the appropriate intellectual property organization of your country; state registrations and registrations on the Supplemental Register are not considered valid for these purposes), Sandstorm requests that the Complaining Party substantiate such claim by providing the following information via email to [trademark@sandstorm.io](mailto:trademark@sandstorm.io).  The words "Trademark Claim" should appear in the subject line.
-
-To be considered effective, a notification of a claimed trademark violation must include the following information:
-
-* The trademark, service mark, trade dress, name, or other indicia of origin ("mark") that is claimed to be infringed, including registration number.
-* The jurisdiction or geographical area to which the mark applies.
-* The name, post office address and telephone number of the owner of the mark identified above.
-* The goods and/or services covered by or offered under the mark identified above.
-* The date of first use of the mark identified above.
-* The date of first use in interstate commerce of the mark identified above.
-* A description of the manner in which the Complaining Party believes its mark is being infringed upon.
-* Sufficient evidence that the owner of the website that is claimed to be infringing is a Sandstorm customer.
-* The precise location of the infringing mark, including electronic mail address, etc.
-* A good faith certification, signed under penalty of perjury, stating:
-  * The content of the website [identify website] infringes the rights of another party,
-  * The name of such said party,
-  * The mark [identify mark] being infringed, and
-  * That use of the content of the website claimed to be infringing at issue is not defensible.
-
-Upon receipt of the appropriate information identified above, for trademark claims, Sandstorm will initiate an investigation and forward the Complaining Party's written notification to the alleged infringer. While Sandstorm is investigating the claim, Sandstorm, at its sole discretion and without any legal obligation to do so, may temporarily remove the allegedly infringing material from its site or temporarily remove or deny access to the allegedly infringing material.
-
-If Sandstorm concludes that the Complaining Party has raised a legitimate trademark claim, it may, at its sole discretion and without any legal obligation to do so, permanently remove the challenged material from the site, continue to suspend the alleged infringer's Sandstorm account and/or if it is solely stored on a Sandstorm server, deny access to the allegedly infringing material. If Sandstorm concludes that the Complaining Party has not raised a legitimate claim, Sandstorm will restore access to the allegedly infringing material (or not take any action at all, as the case may be).
-
-### B. Copyright Claims
-
-If the Complaining Party would like to submit a copyright claim for material on which you hold a bona fide copyright, Sandstorm requests that the Complaining Party substantiate such claim by providing Sandstorm with the following information via email to [copyright@sandstorm.io](mailto:copyright@sandstorm.io). The words "Copyright Claim" should appear in the subject line. A copyright claim can also be submitted by mail to: 
-
-    Copyright Agent
     Sandstorm Development Group, Inc.
     475 Fernando Ave
     Palo Alto, CA 94306
 
-To be considered effective, a notification of a claimed copyright infringement must be provided to Sandstorm and must include the following information:
-
-* An electronic signature of the copyright owner, or a person authorized to act on behalf of the owner, of an exclusive copyright that has allegedly been infringed.
-* Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works on that site.
-* Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit Sandstorm to locate the material.
-* Information reasonably sufficient to permit Sandstorm to contact the Complaining Party, such as an address, telephone number, and, if available, an electronic mail address at which the Complaining Party may be contacted.
-* A statement that the Complaining Party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
-* A statement that the information in the notification is accurate, and under penalty of perjury, that the Complaining Party is the owner, or is authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed.
-
-For Copyright Claims, upon receipt of appropriate and complete notification from the Complaining Party, Sandstorm will forward the Complaining Party's written notification to the alleged infringer and, if it is solely stored on a Sandstorm server, temporarily remove or deny access to the allegedly infringing material.
-
-### C. Counter Notification Policy
-
-Counter Notification. If you have received a notice of copyright or trademark infringement that you wish to challenge based on a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled, you may provide Counter Notification by emailing or mailing us using the address from which you received notification of the takedown, and including the following:
-
-* An electronic signature of the alleged infringer.
-* Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled.
-* A statement under penalty of perjury that the alleged infringer has a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled.
-* The alleged infringer's name, address, and telephone number, and a statement that the Infringer consents to the jurisdiction of the Federal District Court for the Northern District of California, or if the alleged infringer's address is outside of the United States, for any judicial district in which Sandstorm may be found, and that the alleged infringer will accept service of process from the Complaining Party or its agent.
-
-Upon receipt of a Counter Notification as described in Section 1 above, Sandstorm will promptly provide the Complaining Party with a copy of the Counter Notification, and inform such Party that it will replace the removed material or cease disabling access to it in ten (10) business days. Sandstorm will replace the removed material and cease disabling access to it in not less than ten (10), nor more than fourteen (14), business days following receipt of the Counter Notification, unless Sandstorm first receives notice from the Complaining Party that such Complaining Party has filed an action seeking a court order to restrain the alleged infringer from engaging in infringing activity relating to the material on Sandstorm's system or network.
-
-### D. Repeat Infringers
-
-It is Sandstorm's policy to provide for the termination, in appropriate circumstances, of Sandstorm customers and account holders who repeatedly violate this policy or are repeat infringers of copyrighted works, trademarks or any other intellectual property.
+Please note that we do not host any content via the Sandcats service; it only points to other people's servers. We cannot control the content of those servers. If the infringing content is on a Sandcats user's server, you will need to contact them directly.
 
 ## Miscellaneous
 
