@@ -1,99 +1,29 @@
 # Terms of Service
 
-The following terms apply to your use of the Sandstorm Oasis hosting service ("the service"), as offered by Sandstorm Development Group, Inc. ("we"/"us").
+The following terms apply to your use of the Sandstorm Sandcats DNS service ("the service"), as offered by Sandstorm Development Group, Inc. ("we"/"us").
 
-These terms do NOT apply to users running the Sandstorm open source software on their own servers; see [the Sandstorm license](https://github.com/sandstorm-io/sandstorm/blob/master/LICENSE). These terms also do NOT apply to any other services run by us.
+These terms do NOT apply to any other Sandstorm service, such as Sandstorm Oasis. These terms also do not apply to users running the Sandstorm open source software under their own domain name. Use of the Sandstorm software on your own server (whether under sandcats.io or your own domain) is covered by [the Sandstorm license](https://github.com/sandstorm-io/sandstorm/blob/master/LICENSE).
 
 ## What you may do with the services
 
-As long as you keep your documents private, you can do anything you want with them (within the bounds of applicable law). Employees of Sandstorm will not look at your private data unless required by law (and we will push back against unreasonable law enforcement requests as we deem appropriate).
+The Sandcats service provides DNS (allowing people to locate your server's IP address given the name you choose for it) and TLS certificates (allowing people to establish a secure (private and authenticated) connection to your server) to people running a Sandstorm server.
 
-## What you may not do with the services
+You may use the Sandcats service in conjunction with a server running an up-to-date version of Sandstorm. Sandcats is closely integrated with Sandstorm. As the service's protocols may change over time, it is important that you keep your Sandstorm installation up-to-date. We recommend enabling automatic updates, but if you do not, please update within a month of any new release. If your Sandstorm installation becomes out-of-date, or your server is not running Sandstorm at all, the service may cease to function.
+
+## Prohibited activity
 
 * You may not use the service for activities that are illegal under United States law.
 * You may not use the service to facilitate online harassment campaigns, regardless of legality. "Online harassment" means activity meant to threaten, bully, or otherwise maliciously make life difficult for an individual person or class of people, especially (but not limited to) women and minorities.
-* You may not use the service to host commercial pornography services. However, you may host personal erotic content as long as it is legal and not for profit.
-* You may not use the service to communicate with other services in a way that violates those other services' terms of use.
 
-## Who may use the services
-
-* You must be at least 18 years old to use the service. (This restriction may be lifted in the future, once the service complies with applicable regulations.)
-
-## Privacy of grain data
-
-Sandstorm employees will not view the contents of your grains, nor use that content for any purpose other than delivering the services, except under the following circumstances:
-
-* You share it with us.
-* Someone who already has permission to interact with your grain (for example, because you shared it with them) chooses to share their access with us, perhaps as part of a complaint, as described in the next section.
-* We detect that you are engaging in a technical attack, as described below.
-* We are required to do so by law.
-
-Except in one of the above circumstances, Sandstorm employees will not view your data even if we suspect it may violate our terms.
-
-## Interacting with other users and services
-
-If you choose to share a grain with other users (whether specific people, or publicly / to everyone), or otherwise communicate with other users or services through a grain, then you are implicitly giving those people permission to "reshare" their interaction with your grain to us. For example:
-
-* If you grant another user access to a grain, they may give us permission to view the grain on their behalf in order to investigate a complaint.
-* If you use the grain to access another service (including other grains), that service's owners may give us permission to monitor your grain's communications with that service.
-
-Such complaints can be made by emailing [support@sandstorm.io](mailto:support@sandstorm.io).
-
-If in our judgment the complaint is valid and you have violated these terms, we may respond in the following ways:
-
-* We may "unshare" your grain, meaning no one except you will be able to access it, and it will not be able to connect to any external service or resources.
-* If you are a repeat offender, or if in our judgment your actions warrant it, we may unshare all of your grains, and we may prohibit you from sharing grains or otherwise connecting grains to external resources in the future.
-* In the case where you use the service to interact with another service in a way that violates that other service's terms of use, we may, at our discretion, reveal your identity to the other service's owner.
-* If required by law -- but not otherwise -- we will report activity to law enforcement.
-* If required by law -- but not otherwise -- we will delete your data.
-* In the case of harassment involving theats of physical violence, we may reveal your identity to the harassed parties, law enforcement, and your mother.
-
-## Technical Attacks
-
-You may not engage in technical attacks (often -- but incorrectly -- called "hacking") on the service itself or on other users' grains. A technical attack is any action which uses technical means to harm the service, its users, or third parties in a way that was not intended (in our opinion) to be authorized. This includes (but is not limited to) unauthorized changes to others' data, breaches of confidentiality, denial of service, phishing, resource exhaustion, and anything else that the computer security community generally classifies as an attack. This also includes attacks carried out against third-party services facilitated by grains running on our service, even if our service and users are not harmed.
-
-If you carry out a harmful attack, you immediately forfeit all rights to privacy and other protections laid out in these terms. We will take any action we deem necessary to prevent harmful consequences to the service or other users, including investigating the contents of your grains, sharing what we find with the security community, and possibly deleting your data and/or closing your account.
-
-You may, however, privately test for the existence of security bugs as long as any users whose grains or data are affected consent to the test, no harm is done (in our judgment) to the service or any other user, and the bug is immediately responsibly disclosed to the maintaners of the software in which it appears. For bugs in any software maintained by Sandstorm (the company), email [security@sandstorm.io](mailto:security@sandstorm.io). We believe in celebrating "white hat" security research: If you responsibly disclose to us an important security bug in our software, we will fix the bug within 90 days if possible (usually, much faster), and then we will publicly credit you on our blog.
+If we, in our sole discression, determine that you are using Sandcats in a way that violates these rules, we may cease responding to DNS queries for your Sandcats subdomain and may revoke any TLS certificates associated with it. If we take any of these actions, we will e-mail you at the address you provided upon registering your subdomain (unless we are prohibited by law from doing so).
 
 ## Law Enforcement Actions
 
 We will only reveal your data to law enforcement when we believe we are legally required to do so, such as by a court order. If this occurs, we will notify you, unless we are legally prohibited from doing so.
 
-## Content Ownership
-
-We claim no intellectual property rights over the material you provide to the service. Your profile and grain contents remain yours. However, when you share your grains through the sharing UI or other mechanisms, you agree to allow others to access your grains accordingly.
-
-## Subscription and Fees
-
-When you sign up for the service, you will be asked to enter into an agreement with us that outlines your obligations and ours.  That agreement will guide our relationship and will address the fees assessed for the services you choose to use. 
-
-We use Stripe for all payments using or engaging the service.  None of your payment information will be held or stored by Sandstorm. Stripe holds all payment credentials (e.g. credit card numbers, name, and billing address) and this information is handled in accordance with Stripe's [privacy policy](https://stripe.com/us/privacy) and [terms of service](https://stripe.com/us/terms).
-
-Subscription fees may be increased subject to 30 days notice from us, sent to the email address on file with your account. Subscription fees may be reduced with no notice.
-
-As of August, 2015, the service is in beta testing. During the beta testing period, all subscription fees will be waived. However, we may declare at any time that the beta has ended and will then begin charging fees, with no 30-day notice.
-
-## Free Plan
-
-We offer a subscription plan which has no monthly fee. This plan is intended to allow users to try out the service before paying for it. Some features of the service are limited or unavailable when using the free plan.
-
-You are allowed to create only one free account. If you create multiple free accounts, we may delete any or all of your data in those accounts.
-
-If we observe that your free account is inactive, we may wish to delete it. We will give 30 days notice by email before deleting any free account for inactivity. To prevent your account from being deleted, you must log in at least once within those 30 days.
-
-We may discontinue the free plan at any time. If we do, existing free accounts will be given 30 days' notice to upgrade to a paid account. If you do not upgrade, your data will be deleted.
-
 ## Cancellation
 
-You may cancel your service at any time, but cancellation will not take effect until the current pay period completes. Cancel your service via the user interface or by emailing [support@sandstorm.io](mailto:support@sandstorm.io).  Once you cancel your services, the following will apply:
-
-* Your account will not be charged again.
-* Once the current pay period ends, all of your data will be deleted.
-
-## Data deletion
-
-We optimize our systems to prevent unintentional data loss. As a result, data which is _intentionally_ deleted will remain present in our backup systems for up to 60 days.
+You may end your service at any time by stopping your Sandstorm server or reconfiguring it not to use Sandcats. If you wish for us to explicitly delete your last-known IP address and email address from our database, please contact us at [support@sandstorm.io](mailto:support@sandstorm.io).
 
 ## Problems and Contact
 
@@ -209,4 +139,4 @@ As with any agreement, our lawyers said there are additional provisions necessar
 
 ## Effective Date
 
-This policy is effective as of August 31, 2015.
+This policy is effective as of October 6, 2015.
