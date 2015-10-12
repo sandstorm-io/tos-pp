@@ -16,7 +16,7 @@ You may use the Sandcats service in conjunction with a server running an up-to-d
 * You may not use the service to facilitate online harassment campaigns, regardless of legality. "Online harassment" means activity meant to threaten, bully, or otherwise maliciously make life difficult for an individual person or class of people, especially (but not limited to) women and minorities.
 * You may not choose a hostname that is intended to deceive others about the server's content, such as for the purposes of spam, phishing, or otherwise.
 
-If we, in our sole discression, determine that you are using Sandcats in a way that violates these rules, we may cease responding to DNS queries for your Sandcats subdomain and may revoke any TLS certificates associated with it. If we take any of these actions, we will e-mail you at the address you provided upon registering your subdomain (unless we are prohibited by law from doing so). For minor violations (in our sole judgment), we may notify you in advance to give you a chance to correct the problem before we take action.
+If we, in our sole discression, determine that you are using Sandcats in a way that violates these rules, we may stop providing service for your Sandcats subdomain. If we take such an action, we will e-mail you at the address you provided upon registering your subdomain (unless we are prohibited by law from doing so). For minor violations (in our sole judgment), we may notify you in advance to give you a chance to correct the problem before we take action.
 
 ## Law Enforcement Actions
 
@@ -25,6 +25,10 @@ We will only reveal your data to law enforcement when we believe we are legally 
 ## Cancellation
 
 You may end your service at any time by stopping your Sandstorm server or reconfiguring it not to use Sandcats. If you wish for us to explicitly delete your last-known IP address and email address from our database, please contact us at [support@sandstorm.io](mailto:support@sandstorm.io).
+
+## Changes to service
+
+We reserve the right to modify or discontinue the service at any time. If possible we will give 30 days' notice before discontinuing existing functionality.
 
 ## Problems and Contact
 
