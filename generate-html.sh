@@ -2,44 +2,57 @@
 
 set -euo pipefail
 
-if [ "$#" != 1 ]; then
-  echo "usage: $0 terms|privacy" >&2;
+usage() {
+  echo "usage: $0 oasis|sandcats terms|privacy" >&2;
   exit 1
+}
+
+if [ "$#" != 2 ]; then
+  usage
 fi
 
-if [ "$1" = "terms" ]; then
+if [ "$1" = "oasis" ] ; then
+  PRODUCT="Oasis"
+elif [ "$1" = "sandcats" ] ; then
+  PRODUCT="Sandcats"
+else
+  usage
+fi
+
+PREFIX="$1"
+
+if [ "$2" = "terms" ]; then
   CLASS="terms"
   TITLE="Terms of Service"
-elif [ "$1" = "privacy" ]; then
+elif [ "$2" = "privacy" ]; then
   CLASS="privacy"
   TITLE="Privacy Policy"
 else
-  echo "usage: $0 terms|privacy" >&2;
-  exit 1
+  usage
 fi
 
 cat << __EOF__
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Sandstorm Oasis: $TITLE</title>
+    <title>Sandstorm $PRODUCT: $TITLE</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script type="text/javascript">
       function showTerms() {
         document.body.className = "terms";
         if (history.replaceState) {
-          history.replaceState({}, "Sandstorm Oasis: Terms of Service", "/terms");
+          history.replaceState({}, "Sandstorm $PRODUCT: Terms of Service", "/terms");
         } else {
-          document.title = "Sandstorm Oasis: Terms of Service";
+          document.title = "Sandstorm $PRODUCT: Terms of Service";
         }
       }
       function showPrivacy() {
         document.body.className = "privacy";
         if (history.replaceState) {
-          history.replaceState({}, "Sandstorm Oasis: Privacy Policy", "/privacy");
+          history.replaceState({}, "Sandstorm $PRODUCT: Privacy Policy", "/privacy");
         } else {
-          document.title = "Sandstorm Oasis: Privacy Policy";
+          document.title = "Sandstorm $PRODUCT: Privacy Policy";
         }
       }
     </script>
@@ -55,25 +68,24 @@ cat << __EOF__
     <section id="overview">
 __EOF__
 
-markdown overview.md
+markdown "${PREFIX}-overview.md"
 
 cat << __EOF__
     </section>
     <section id="terms" onclick="showTerms()">
 __EOF__
 
-markdown tos.md
+markdown "${PREFIX}-tos.md"
 
 cat << __EOF__
     </section>
     <section id="privacy" onclick="showPrivacy()">
 __EOF__
 
-markdown privacy.md
+markdown "${PREFIX}-privacy.md"
 
 cat << __EOF__
     </section>
   </body>
 </html>
 __EOF__
-
