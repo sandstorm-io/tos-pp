@@ -10,7 +10,7 @@ The Sandcats service provides DNS (allowing people to locate your computer's IP 
 
 ## Data gathered from you, and how we use it
 
-When you run a Sandstorm server that uses Sandcats, the service gathers two pieces of information about you:
+When you run a Sandstorm server that uses Sandcats, the service gathers these pieces of information about you:
 
 * Your server's IP address. This address will be published to the world via the DNS protocol, as is the purpose of the service.
 * Your email address. We will use this address to contact you with service issues if needed and to help you recover a lost hostname. We will not share this address with anyone unless required by law, in which case we will notify you unless prohibited by law.
