@@ -16,7 +16,7 @@ You may use the Sandcats service in conjunction with a server running an up-to-d
 * You may not use the service to facilitate online harassment campaigns, regardless of legality. "Online harassment" means activity meant to threaten, bully, or otherwise maliciously make life difficult for an individual person or class of people, especially (but not limited to) women and minorities.
 * You may not choose a hostname that is intended to deceive others about the server's content, such as for the purposes of spam, phishing, or otherwise.
 
-If we, in our sole discression, determine that you are using Sandcats in a way that violates these rules, we may stop providing service for your Sandcats subdomain. If we take such an action, we will e-mail you at the address you provided upon registering your subdomain (unless we are prohibited by law from doing so). For minor violations (in our sole judgment), we may notify you in advance to give you a chance to correct the problem before we take action.
+If we, in our sole discretion, determine that you are using Sandcats in a way that violates these rules, we may stop providing service for your Sandcats subdomain. If we take such an action, we will e-mail you at the address you provided upon registering your subdomain (unless we are prohibited by law from doing so). For minor violations (in our sole judgment), we may notify you in advance to give you a chance to correct the problem before we take action.
 
 ## Law Enforcement Actions
 
