@@ -3,7 +3,7 @@
 set -euo pipefail
 
 usage() {
-  echo "usage: $0 oasis|sandcats terms|privacy" >&2;
+  echo "usage: $0 oasis|sandcats|support terms|privacy" >&2;
   exit 1
 }
 
@@ -15,6 +15,8 @@ if [ "$1" = "oasis" ] ; then
   PRODUCT="Oasis"
 elif [ "$1" = "sandcats" ] ; then
   PRODUCT="Sandcats"
+elif [ "$1" = "support" ] ; then
+  PRODUCT="Support Service"
 else
   usage
 fi
