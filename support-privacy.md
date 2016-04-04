@@ -8,7 +8,7 @@ This policy does NOT apply to the Sandstorm software itself, which runs on your 
 
 The Sandcats Support Service provides automatic updates for Sandstorm software that you run on your own server, "feature keys" which can be used to unlock features in that software, and email-based technical support.
 
-## Data gathered when downloading updates updates
+## Data gathered when downloading updates
 
 When you download an update from our server, we record in our logs:
 
