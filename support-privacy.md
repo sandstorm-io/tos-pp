@@ -6,7 +6,7 @@ This policy does NOT apply to the Sandstorm software itself, which runs on your 
 
 ## Introduction
 
-The Sandcats Support Service provides automatic updates for Sandstorm software that you run on your own server, "feature keys" which can be used to unlock features in that software, and email-based technical support.
+The Sandstorm Support Service provides automatic updates for Sandstorm software that you run on your own server, "feature keys" which can be used to unlock features in that software, and email-based technical support.
 
 ## Data gathered when downloading updates updates
 
@@ -30,7 +30,13 @@ When you request a feature key, we may gather:
 * Details about you and your and your organization to help us determine the best way to support you.
 * Any other information listed on the sign-up form.
 
-This information is used to deliver the service to you. The billing information will not be shared with anyone. We assume the remaining information is non-secret and we may share it with business partners unless you tell us otherwise.
+This information is used to deliver the service to you. The billing information will be shared only with our payment processor (Stripe). We assume the remaining information is non-secret and we may share it with business partners unless you tell us otherwise by e-mailing [support@sandstorm.io](mailto:support@sandstorm.io).
+
+## Data gathered during free trials
+
+If you request a free trial, during the trial period your Sandstorm server will automatically share some statistics with us, such as the number of users on your server and the number of people using each app. To review the statistics being shared, visit the "statistics" page in the admin panel of your server (i.e. `<your-server>/admin/stats`). This information is only required to be shared during trials. Once you have purchased a non-trial key, you may choose whether or not you wish to continue to share this information.
+
+This information is used to help us understand how Sandstorm is being used so that we can improve the product, as well as to help our sales team determine the best options for you.
 
 ## Data deletion
 
@@ -38,4 +44,4 @@ You may request that we delete any of this data by emailing [support@sandstorm.i
 
 ## Effective Date
 
-This policy is effective as of March 8, 2016.
+This policy is effective as of August 30, 2016.

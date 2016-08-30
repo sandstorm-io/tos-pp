@@ -22,21 +22,36 @@ If specified at time of purchase, a feature key entitles the holder to priority 
 
 We may cease providing e-mail support to you at any time for any reason. If we do this, we will immediately notify your primary contact by email and issue a refund for the current billing period. Your feature key will remain valid until its original expiration date, allowing you to continue to use the software without support. Moreover, we will offer you the option to renew your feature key at the same rate but without e-mail support.
 
+## Billing Options
+
+We offer two billing plans:
+
+* **Prepaid annual billing:** You will be charged at the time of purchase for a feature key covering the number of users you specify and valid for 365 days. You may increase the user limit at any time. If you increase the user limit, you will be charged for the new users prorated for the time remaining in the billing cycle. If you decrease the user limit, the change will take effect upon your next renewal.
+
+* **Usage-based monthly billing:** Every 30 days, you will be charged according to the actual number of active users seen by your server in the last 30 days, not counting "visitor" users. Your server reports the number of users automatically. You may inspect your server's active user count by visiting the "statistics" section of the administrator settings. You must not manipulate your server in a way that causes it to report an incorrect count. If you do so, we may disable your feature key.
+
 ## Automatic Renewal
 
-If you purchase a feature key with automatic renewal, your Sandstorm server will automatically download a new key when your first key expires, and you will automatically be charged. To cancel renewal, you may do *any* of the following:
+At the end of each billing period, your Sandstorm server, if it is still running, will automatically renew your key, and you will automatically be billed. To cancel renewal, you may do either of the following:
 
 * Permanently shut down your Sandstorm server, in which case it will not renew the key.
-* De-configure the feature key in your server's settings.
-* Contact [priority-support@sandstorm.io](mailto:priority-support@sandstorm.io) and request that we cancel the renewal policy.
+* Delete the feature key from your server's configuration.
+
+If you cannot do one of the above because you have lost control of your key or your server, you may contact [priority-support@sandstorm.io](mailto:priority-support@sandstorm.io) and request that we revoke your key.
+
+## Free Trials
+
+Your organization may be eligible for a free trial, as indicated in the feature key purchase tool.
+
+During the trial period, you agree to share basic server statistics with Sandstorm, such as the number of active users and which apps they are using, to help our sales team determine the best options for you. To review the statistics being shared, visit the "statistics" page in the admin panel of your server (i.e. `<your-server>/admin/stats`). Once you've purchased your feature key, you may choose not to continue sharing this information.
 
 ## Changes to the Service
 
-We may at our sole discression choose to discontinue or alter this service.
+We may at our sole discretion choose to discontinue or alter this service.
 
 If we cease offering the automatic update service, we will issue a final update which removes the feature key check, thus making all features available to everyone. This update will remove automatic renewal logic, so you will not be billed again. This update will remain available for at least 30 days before the update server goes offline.
 
-If you choose an automatically-renewing plan, your rate will stay the same even if our advertised rates increase. However, we may offer new features over time, and in order to unlock those new features you may need to update your plan and pay a new rate.
+When you purchase your key, your renewal rate will be shown. Unless otherwise indicated, as long as you continuously renew your key, this rate will stay the same even if our advertised rates increase. However, we may introduce new premium features over time, and in same cases those new features may require an additional fee or may require switching to a new plan at a different rate.
 
 ## Problems and Contact
 
@@ -86,4 +101,4 @@ As with any agreement, our lawyers said there are additional provisions necessar
 
 ## Effective Date
 
-This policy is effective as of March 8, 2016.
+This policy is effective as of August 30, 2016.
