@@ -10,6 +10,8 @@ Sandstorm (the company, the service, and the platform) does not employ any autom
 
 In general, you have a high degree of control over how your data is shared via the sharing UI. You, as a user, decide with whom your data and personal details are shared through the Sandstorm interface.
 
+If you do not wish to have Sandstorm collect, maintain, and use data provided by or about you as described in this Privacy Policy, you have the option instead to run the Sandstorm open-source software on your own servers.
+
 ## Data gathered in the aggregate
 
 The service gathers aggregated data counts, such as "the number of people who logged in yesterday" or "the number of documents created using Etherpad". These counts aggregate data from many users and are not personally identifiable. We try not to gather statistics that may be personally identifiable; for example, if an application is installed by only one user, we will not gather statistics about it.
@@ -67,9 +69,11 @@ We use any information we gather to improve the services we offer.
 
 We do not sell any personal data to any third party. We do not share personal data with any third party, except as necessary to implement the service. For instance, if you choose to log in through Github, then we share data with Github, but only as necessary to implement login. If you believe we are sharing more data than necessary, please email [privacy@sandstorm.io](mailto:privacy@sandstorm.io) to report the problem so we may fix it.
 
-If we merge with another company or are acquired by another company, we will share all of the data we have gathered with that company. In this event, Sandstorm will notify you before information about you is transferred and becomes subject to a different privacy policy.
+We also may share your data with law enforcement or other third parties to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law (including without limitation in response to service of process). Any such action will be consistent with the policies and guidelines included in our Terms of Service.
 
-We also may share your data with authorities or other third parties to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. Any such action will be consistent with the policies and guidelines included in our Terms of Service.
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Sandstorm may potentially be liable; note, however, that we otherwise expressly disclaim all liability arising out of third-party disclosures made pursuant to the preceding three paragraphs, which disclaimer you accept by your usage of the service.
+
+If we merge with another company or are acquired by another company, we will share all of the data we have gathered with that company. In this event, Sandstorm will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 ## How We Respond to Do Not Track Signals
 
@@ -79,24 +83,39 @@ The [W3C "Do Not Track" standard](http://www.w3.org/TR/tracking-dnt/) defines "t
 
 Sandstorm, as a company, does not engage in "tracking", in that we do not track users across multiple unrelated contexts or web sites without the user's explicit consent. This applies regardless of the presence of "Do Not Track" signals.
 
-## EU Safe Harbor
+## U.S.-Swiss Safe Harbor
 
-Sandstorm complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Sandstorm has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.  To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
+Sandstorm complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Sandstorm has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/.
 
-For European Union and Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to Sandstorm by sending an email to [privacy@sandstorm.io](mailto:privacy@sandstorm.io). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with our Privacy Policy.
+For Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to Sandstorm by sending an email to privacy@sandstorm.io. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with our Privacy Policy.
+Sandstorm has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit http://www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
-Sandstorm has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+In compliance with the US-Swiss Safe Harbor Principles, Sandstorm commits to resolve complaints about your privacy and our collection or use of your personal information.  Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Sandstorm at: privacy@sandstorm.io
+
+Sandstorm has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+
+## EU-U.S. Privacy Shield
+ 
+Sandstorm complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Sandstorm has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/
+
+In compliance with the EU-US Privacy Shield Principles, Sandstorm commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union individuals with inquiries or complaints regarding this privacy policy should first contact Sandstorm at: privacy@sandstorm.io
+ 
+Sandstorm has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
+ 
+Sandstorm is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
 ## Correcting and deleting your data
 
 Most things can be edited through the Sandstorm interface, but if not, email [support@sandstorm.io](mailto:support@sandstorm.io).
 
+Please note that even after we have changed or deleted your data from our systems, backup copies of your data may continue to exist on systems maintained by our infrastructure vendors (e.g., Google Cloud), over which we may not have control.
+
 Sandstorm will not edit content owned by other users (which is most of the content on the platform).
 
 ## Cancellation
 
-If you cancel your service, all of your data (including grains) will be deleted (subject to "data deletion" in the Terms of Service). However, if you merely stop paying for your service without requesting cancellation, then Sandstorm may, as a courtesy, continue to store your data so that you may access it again once you resume payments. Either you or Sandstorm may choose to end this courtesy storage at any time. You may cancel your service through the user interface or you can contact us at [support@sandstorm.io](mailto:support@sandstorm.io).
+If you cancel your service, all of your data (including grains) will be deleted (subject to "data deletion" in the Terms of Service and backups maintained by our infrastructure vendors as discussed above). However, if you merely stop paying for your service without requesting cancellation, then Sandstorm may, as a courtesy, continue to store your data so that you may access it again once you resume payments. Either you or Sandstorm may choose to end this courtesy storage at any time. You may cancel your service through the user interface or you can contact us at [support@sandstorm.io](mailto:support@sandstorm.io).
 
 ## Effective Date
 
-This policy is effective as of August 31, 2015.
+This policy is effective as of August 31, 2016.
