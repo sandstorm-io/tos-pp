@@ -118,4 +118,4 @@ If you cancel your service, all of your data (including grains) will be deleted 
 
 ## Effective Date
 
-This policy is effective as of August 31, 2016.
+This policy is effective as of September 9, 2016.
