@@ -67,6 +67,8 @@ All data we collect is stored in the United States on servers at our infrastruct
 
 We use any information we gather to improve the services we offer.
 
+We acknowledge that individuals have the right to access the personal information/data that we maintain about them. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his or her query to [privacy@sandstorm.io](mailto:privacy@sandstorm.io). If requested to remove data, we will respond within a reasonable timeframe.
+
 We do not sell any personal data to any third party. We do not share personal data with any third party, except as necessary to implement the service. For instance, if you choose to log in through Github, then we share data with Github, but only as necessary to implement login. If you believe we are sharing more data than necessary, please email [privacy@sandstorm.io](mailto:privacy@sandstorm.io) to report the problem so we may fix it.
 
 We also may share your data with law enforcement or other third parties to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law (including without limitation in response to service of process). Any such action will be consistent with the policies and guidelines included in our Terms of Service.
