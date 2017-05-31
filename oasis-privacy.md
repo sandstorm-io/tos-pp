@@ -95,17 +95,6 @@ Sandstorm has further committed to refer unresolved privacy complaints under the
  
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. Sandstorm is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
-## U.S.-Swiss Safe Harbor
-
-Sandstorm complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Sandstorm has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
-
-For Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to Sandstorm by sending an email to [privacy@sandstorm.io](mailto:privacy@sandstorm.io). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with our Privacy Policy.
-Sandstorm has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
-
-In compliance with the US-Swiss Safe Harbor Principles, Sandstorm commits to resolve complaints about your privacy and our collection or use of your personal information.  Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Sandstorm at: [privacy@sandstorm.io](mailto:privacy@sandstorm.io)
-
-Sandstorm has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
-
 ## Correcting and deleting your data
 
 Most things can be edited through the Sandstorm interface, but if not, email [support@sandstorm.io](mailto:support@sandstorm.io).
