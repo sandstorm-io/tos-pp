@@ -85,16 +85,6 @@ The [W3C "Do Not Track" standard](http://www.w3.org/TR/tracking-dnt/) defines "t
 
 Sandstorm, as a company, does not engage in "tracking", in that we do not track users across multiple unrelated contexts or web sites without the user's explicit consent. This applies regardless of the presence of "Do Not Track" signals.
 
-## EU-U.S. Privacy Shield
- 
-Sandstorm complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  Sandstorm has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/)
-
-In compliance with the EU-US Privacy Shield Principles, Sandstorm commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union individuals with inquiries or complaints regarding this privacy policy should first contact Sandstorm at: [privacy@sandstorm.io](mailto:privacy@sandstorm.io)
- 
-Sandstorm has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
- 
-Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. Sandstorm is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
-
 ## Correcting and deleting your data
 
 Most things can be edited through the Sandstorm interface, but if not, email [support@sandstorm.io](mailto:support@sandstorm.io).
