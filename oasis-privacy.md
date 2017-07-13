@@ -73,7 +73,7 @@ We do not sell any personal data to any third party. We do not share personal da
 
 We also may share your data with law enforcement or other third parties to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law (including without limitation in response to service of process). Any such action will be consistent with the policies and guidelines included in our Terms of Service. We may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
-In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Sandstorm may potentially be liable; note, however, that we otherwise expressly disclaim all liability arising out of third-party disclosures made pursuant to the preceding three paragraphs, which disclaimer you accept by your usage of the service.
+Note, however, that we expressly disclaim all liability arising out of third-party disclosures made pursuant to the preceding three paragraphs, which disclaimer you accept by your usage of the service.
 
 If we merge with another company or are acquired by another company, we will share all of the data we have gathered with that company. In this event, Sandstorm will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
