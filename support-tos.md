@@ -1,61 +1,24 @@
 # Terms of Service
 
-The following terms apply to your use of the Sandstorm Support Service ("the service"), as offered by Sandstorm Development Group, Inc. ("we"/"us"), and the use of "Feature Keys", as described below.
+The following terms apply to your use of the Sandstorm Support Service ("the service"), as offered by Sandstorm Development Group, Inc. ("we"/"us").
 
 These terms do NOT govern your use of the Sandstorm software itself, which is governed by [the Sandstorm license](https://github.com/sandstorm-io/sandstorm/blob/master/LICENSE). These terms also do not cover any other service provided by us, such as Sandstorm Oasis.
 
-## Feature Keys
-
-A "feature key" is a long, secret piece of text which, when entered into a Sandstorm server running an official build, will unlock additional features. Sandstorm is open source, therefore you do not need a feature key to use these features. However, because our automatic update service provides official builds that include the feature key check, buying a feature key is the easiest way to unlock these features while staying up-to-date.
-
-Feature keys may be acquired from us, usually for a fee. Feature keys may have an expiration date, a user limit, and other limitations.
-
-**You may not redistribute your feature key**, nor enter it into more than one server. If we discover that your feature key is being used in multiple servers, we may disable the key, or we may bill you as if you had purchased separate keys for each server.
-
-You may attempt to reverse-engineer the feature key provided that, if you are successful at generating a new key accepted by the Sandstorm software, you immediately inform [security@sandstorm.io](mailto:security@sandstorm.io). We may ask you to write a paper about it.
-
 ## Priority Email Support
 
-If specified at time of purchase, a feature key entitles the holder to priority email support during the time period in which the key is valid. To request support, email [priority-support@sandstorm.io](mailto:priority-support@sandstorm.io). Priority support means that we will answer your email as soon as practical, before we answer queries from other channels.
+To request support, email [priority-support@sandstorm.io](mailto:priority-support@sandstorm.io). Priority support means that we will answer your email as soon as practical, before we answer queries from other channels.
 
 ### No-fault Termination
 
-We may cease providing e-mail support to you at any time for any reason. If we do this, we will immediately notify your primary contact by email and issue a refund for the current billing period. Your feature key will remain valid until its original expiration date, allowing you to continue to use the software without support. Moreover, we will offer you the option to renew your feature key at the same rate but without e-mail support.
-
-## Billing Options
-
-We offer two billing plans:
-
-* **Prepaid annual billing:** You will be charged at the time of purchase for a feature key covering the number of users you specify and valid for 365 days. You may increase the user limit at any time. If you increase the user limit, you will be charged for the new users prorated for the time remaining in the billing cycle. If you decrease the user limit, the change will take effect upon your next renewal.
-
-* **Usage-based monthly billing:** Every 30 days, you will be charged according to the actual number of active users seen by your server in the last 30 days, not counting "visitor" users. Your server reports the number of users automatically. You may inspect your server's active user count by visiting the "statistics" section of the administrator settings. You must not manipulate your server in a way that causes it to report an incorrect count. If you do so, we may disable your feature key.
-
-## Automatic Renewal
-
-At the end of each billing period, your Sandstorm server, if it is still running, will automatically renew your key, and you will automatically be billed. To cancel renewal, you may do either of the following:
-
-* Permanently shut down your Sandstorm server, in which case it will not renew the key.
-* Delete the feature key from your server's configuration.
-
-If you cannot do one of the above because you have lost control of your key or your server, you may contact [priority-support@sandstorm.io](mailto:priority-support@sandstorm.io) and request that we revoke your key.
-
-## Free Trials
-
-Your organization may be eligible for a free trial, as indicated in the feature key purchase tool.
-
-During the trial period, you agree to share basic server statistics with Sandstorm, such as the number of active users and which apps they are using, to help our sales team determine the best options for you. To review the statistics being shared, visit the "statistics" page in the admin panel of your server (i.e. `<your-server>/admin/stats`). Once you've purchased your feature key, you may choose not to continue sharing this information.
+We may cease providing e-mail support to you at any time for any reason. If we do this, we will immediately notify your primary contact by email and issue a refund for the current billing period.
 
 ## Changes to the Service
 
 We may at our sole discretion choose to discontinue or alter this service.
 
-If we cease offering the automatic update service, we will issue a final update which removes the feature key check, thus making all features available to everyone. This update will remove automatic renewal logic, so you will not be billed again. This update will remain available for at least 30 days before the update server goes offline.
-
-When you purchase your key, your renewal rate will be shown. Unless otherwise indicated, as long as you continuously renew your key, this rate will stay the same even if our advertised rates increase. However, we may introduce new premium features over time, and in same cases those new features may require an additional fee or may require switching to a new plan at a different rate.
-
 ## Problems and Contact
 
-All problems should be reported by emailing [support@sandstorm.io](mailto:support@sandstorm.io) (or, for holders of valid feature keys, [priority-support@sandstorm.io](mailto:priority-support@sandstorm.io)), except for security problems, which should be reported to [security@sandstorm.io](mailto:security@sandstorm.io).
+All problems should be reported by emailing [support@sandstorm.io](mailto:support@sandstorm.io) (or, for priority support customers, [priority-support@sandstorm.io](mailto:priority-support@sandstorm.io)), except for security problems, which should be reported to [security@sandstorm.io](mailto:security@sandstorm.io).
 
 You also may contact us by snail mail at:
 
