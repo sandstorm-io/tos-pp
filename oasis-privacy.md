@@ -61,7 +61,7 @@ We also use cookies to gather aggregate anonymous analytics about how users use 
 
 ## Data Storage Location
 
-All data we collect is stored in the United States on servers at our infrastructure service provider, Google Cloud Services, which stores this data encrypted at rest. Google Cloud Services' [Terms of Service](https://cloud.google.com/terms/), section 5, states that Google will use data stored through the service only to deliver the service; data will not be used in conjunction with Google's other products, including advertising products.
+All data we collect is stored in the United States on servers at our infrastructure service provider, Google Cloud Services, which stores this data encrypted at rest. Google Cloud Services' [Terms of Service](https://cloud.google.com/terms/), section 5, states that Google will use data stored through the service only to deliver the service; data will not be used in conjunction with Google's other products, including advertising products. Additional details regarding Google Cloud Services' compliance as a data processor and their practices for data deletion and security can be found in their [Data Processing and Security Terms](https://cloud.google.com/terms/data-processing-terms).
 
 ## What we do with the information we gather
 
