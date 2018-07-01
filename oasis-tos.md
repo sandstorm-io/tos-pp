@@ -72,8 +72,6 @@ We use Stripe for all payments using or engaging the service.  None of your paym
 
 Subscription fees may be increased subject to 30 days notice from us, sent to the email address on file with your account. Subscription fees may be reduced with no notice.
 
-As of August, 2015, the service is in beta testing. During the beta testing period, all subscription fees will be waived. However, we may declare at any time that the beta has ended and will then begin charging fees, with no 30-day notice.
-
 ## Free Plan
 
 We offer a subscription plan which has no monthly fee. This plan is intended to allow users to try out the service before paying for it. Some features of the service are limited or unavailable when using the free plan.
