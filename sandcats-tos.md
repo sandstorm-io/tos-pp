@@ -1,8 +1,8 @@
 # Terms of Service
 
-The following terms apply to your use of the Sandstorm Sandcats DNS service ("the service"), as offered by Sandstorm Development Group, Inc. ("we"/"us").
+The following terms apply to your use of the Sandstorm Sandcats DNS service ("the service"), as offered by the Sandstorm project ("we"/"us").
 
-These terms do NOT apply to any other Sandstorm service, such as Sandstorm Oasis. These terms also do not apply to users running the Sandstorm open source software under their own domain name. Use of the Sandstorm software on your own server (whether under sandcats.io or your own domain) is covered by [the Sandstorm license](https://github.com/sandstorm-io/sandstorm/blob/master/LICENSE).
+These terms do not apply to users running the Sandstorm open source software under their own domain name. Use of the Sandstorm software on your own server (whether under sandcats.io or your own domain) is covered by [the Sandstorm license](https://github.com/sandstorm-io/sandstorm/blob/master/LICENSE).
 
 ## What you may do with the services
 
@@ -34,19 +34,9 @@ We reserve the right to modify or discontinue the service at any time. If possib
 
 All problems should be reported by emailing [support@sandstorm.io](mailto:support@sandstorm.io), except for security problems, which should be reported to [security@sandstorm.io](mailto:security@sandstorm.io).
 
-You also may contact us by snail mail at:
-
-    Sandstorm Development Group, Inc.
-    475 Fernando Ave
-    Palo Alto, CA 94306
-
 ## Copyright and Trademark Issues
 
-To notify Sandstorm of a copyright or trademark violation, please contact [copyright@sandstorm.io](mailto:copyright@sandstorm.io) or [trademark@sandstorm.io](mailto:trademark@sandstorm.io), respectively, or contact us by snail mail at:
-
-    Sandstorm Development Group, Inc.
-    475 Fernando Ave
-    Palo Alto, CA 94306
+To notify Sandstorm of a copyright or trademark violation, please contact [copyright@sandstorm.io](mailto:copyright@sandstorm.io) or [trademark@sandstorm.io](mailto:trademark@sandstorm.io), respectively.
 
 Please note that we do not host any content via the Sandcats service; it only points to other people's servers. We cannot control the content of those servers. If the infringing content is on a Sandcats user's server, you will need to contact them directly.
 
@@ -74,9 +64,9 @@ As with any agreement, our lawyers said there are additional provisions necessar
 
 **Waiver.** The failure of Sandstorm to exercise or enforce any right or provision of the Terms will not constitute a waiver of such right or provision. Any waiver of any provision of the Terms will be effective only if in writing and signed by Sandstorm.
 
-**Governing Law.** The Terms are governed by and construed in accordance with the laws of the State of California, United States of America, without regards to its principles of conflicts of law that would require the application of the laws of another jurisdiction, and shall be considered to have been made and accepted in the State of California.
+**Governing Law.** The Terms are governed by and construed in accordance with the laws of the State of Texas, United States of America, without regards to its principles of conflicts of law that would require the application of the laws of another jurisdiction, and shall be considered to have been made and accepted in the State of Texas.
 
-**Jurisdiction for Legal Disputes.** Legal disputes shall be subject to the exclusive jurisdiction of the Federal and State courts located in San Francisco, California. You hereby consent and submit to the personal and exclusive jurisdiction of such courts for the purposes of litigating any such action.
+**Jurisdiction for Legal Disputes.** Legal disputes shall be subject to the exclusive jurisdiction of the Federal and State courts located in Austin, Texas. You hereby consent and submit to the personal and exclusive jurisdiction of such courts for the purposes of litigating any such action.
 
 **Severability.** If any provision of the Terms of Service is found to be unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from the Terms of Service and shall not affect the validity and enforceability of any remaining provisions.
 
@@ -88,4 +78,4 @@ As with any agreement, our lawyers said there are additional provisions necessar
 
 ## Effective Date
 
-This policy is effective as of October 6, 2015.
+This policy is effective as of July 1, 2022.
