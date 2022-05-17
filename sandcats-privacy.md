@@ -1,8 +1,8 @@
 # Privacy Policy
 
-This privacy policy describes in detail how the Sandstorm Sandcats DNS service ("the service"), as run by Sandstorm Development Group, Inc. ("we"/"us"), protects your privacy.
+This privacy policy describes in detail how the Sandstorm Sandcats DNS service ("the service"), as run by the Sandstorm project ("we"/"us"), protects your privacy.
 
-This policy does NOT apply to any other Sandstorm service, such as Sandstorm Oasis. These terms also do not apply to users running the Sandstorm open source software under their own domain name. Use of the Sandstorm software on your own server (whether under sandcats.io or your own domain) is covered by [the Sandstorm license](https://github.com/sandstorm-io/sandstorm/blob/master/LICENSE).
+These terms do not apply to users running the Sandstorm open source software under their own domain name. Use of the Sandstorm software on your own server (whether under sandcats.io or your own domain) is covered by [the Sandstorm license](https://github.com/sandstorm-io/sandstorm/blob/master/LICENSE).
 
 ## Introduction
 
@@ -13,7 +13,7 @@ The Sandcats service provides DNS (allowing people to locate your computer's IP 
 When you run a Sandstorm server that uses Sandcats, the service gathers these pieces of information about you:
 
 * Your server's IP address. This address will be published to the world via the DNS protocol, as is the purpose of the service.
-* Your email address. We will use this address to contact you with service issues if needed and to help you recover a lost hostname. We will not share this address with anyone unless required by law, in which case we will notify you unless prohibited by law.
+* Your email address. We will use this address to contact you with service issues if needed and to help you recover a lost hostname, or to notify you of changes to the terms of service or privacy policy. We will not share this address with anyone unless required by law, in which case we will notify you unless prohibited by law.
 * Your chosen Sandcats subdomain. Although we do not actively publish a directory of Sandcats hostnames, this name may appear in certificate transparency reports and other public places.
 
 ## Data gathered by other users' servers
@@ -30,4 +30,4 @@ You may end your service at any time by stopping your Sandstorm server or reconf
 
 ## Effective Date
 
-This policy is effective as of October 6, 2015.
+This policy is effective as of July 1, 2022.
